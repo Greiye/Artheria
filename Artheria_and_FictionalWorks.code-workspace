@@ -3,6 +3,9 @@
 		{
 			"name": "Artheria_and_FictionalWorks",
 			"path": "."
+		},
+		{
+			"path": ".."
 		}
 	],
 	"settings": {}
