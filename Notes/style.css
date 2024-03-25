@@ -1,0 +1,12 @@
+body {
+    text-align: center;
+}
+
+summary {
+    font-size: large;
+    font-weight: 500;
+}
+
+p {
+    text-align: left;
+}
