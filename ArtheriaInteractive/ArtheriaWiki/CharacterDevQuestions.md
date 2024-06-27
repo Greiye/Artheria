@@ -1,4 +1,13 @@
+Parent Relationship
+Toddler
+Childhood
+Event
+Teenager - This point, the adventure can start
+Event
+
+
 We have 20 questions students can apply to their characters to develop their character profiles:
+
 1. What is your full name?
 2. Does your name mean anything?
 3. Who is in your immediate family?

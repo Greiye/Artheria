@@ -34,8 +34,8 @@ Types of Magic Users and their source
 | VII              |                                        | 8 Create fields that dispel all magic, earthquakes                        | Power that could decimate cities                                                                       |
 | IX               |                                        | 9 Words that kill, Force Meteors to fall, stop time, see into the futuref | Godly power.                                                                                           |
 
+###### A Story of a Wish
 'Wish' is considered to be the 10th and ultimate spell level.
-
 > 'The sage saw it once. The form that the enemy's Wish took.
 >  It wasn't like her master said, it wasn't a bright light that blinded everyone.
 > It was a faceless wraith, with warm candles floating all around her. She summoned a ghostly blue fabric, and began to cut it with scissors. with every cut, the world around her blurred, and she questioned her surroundings. The soldier who were in front of her changed numbers, then faces and armors. The ruins became clean, bright and blue. With every press of her scissors into the ghostly fabric, it changed like a new painting. dilapidated and old. then crumbled and burning. Then moss in every direction.
@@ -62,17 +62,20 @@ r
 | Biomancy      | Life Magic               | *Healing Word*: Heals wounds. <br> *Revivify*: Brings a creature back to life shortly after death.           |
 | Necromancy    | The Forbidden Magic      | *Animate Dead*: Raises undead minions. <br> *Power Word Kill*: Instantly kills a creature with low health.   |
 
+There are facilities that solely study these schools 
 
 
-Types of Magic Casting
+### Spell Components
+| Component | Description                                 |
+| --------- | ------------------------------------------- |
+| Somatic   | Gestures or motions with one or both hands. |
+| Verbal    | Incantations, chanting, or speaking aloud.  |
+| Material  | Consumable items, ingredients, or objects.  |
+| Thought   | Mental focus or concentration.              |
 
-Somatic
-Verbal
-Material
-Thought
-Rune Casting
 
-## On Patrons
+
+###### On Patrons
 The usual story is that a warlock makes a promise with a demon, and this demon gives them a fraction of their power. In exchange for this power, the warlock is compelled to do the demon’s bidding. Often this demon is godlike, untouchable by the warlock.
 But what if that’s not the case? What if the demon is made vulnerable, just as much as the warlock? As if the promise goes both ways?
 
@@ -83,7 +86,47 @@ Magic of True Name - A rare ability that can control the demons unleashed during
 DM:
 Magic casting is unique and fun. Make it as unique as possible.
 
-Ars Magica Hermetic Magic
+
+
+
+### A Spell's Appearance
+
+Senses:
+Sight
+	Light
+	Motion
+Hearing
+Smell
+	Chemical
+Touch
+		Texture
+		Temperature
+		Balance
+		Pain
+		Awareness (Feeling something is close, but is really far)
+Taste
+
+An Elven opinion on magic
+> Magic is an incredible thing. To this day, my people are still studying it, still trying to understand how it can exist how it does. The Humans have gone and done something with it, but not to the scale that we have, We have experiments that are ongoing for the past hundred years, the lead arcanist cannot be replaced. No other race can do this.
+> 
+> The magic affects us in a way the other races cannot understand. How do you explain 3 dimensions in a 2 dimensional setting?
+
+| Aspect                                                 | General Description                                                              | Desc                                                              | Elven Descriptor                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| ------------------------------------------------------ | -------------------------------------------------------------------------------- | ----------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Raw Magic**                                          | Appears as: Glowing white blue, with flecks of other colors.                     | It is slightly cold.                                              | It's slightly cold, and feels unfinished. Like a song from a bard that has a catchy tune, but no rhythm to it. It seems to change with every casting of the spell.                                                                                                                                                                                                                                                                                                                                          |
+| **Divine Magic (from a God)**                          | Appears as: White/Yellow                                                         | It is warm, and generates a hum that can be mistaken as choirsong | It's warm and cozy, like a blanket and hot cocoa. My elven brethren say it is a wonder to cast, as familiar and filling as mother's soup when you're feeling sick. It's not wonder the other races will go so far as to sing its praises.                                                                                                                                                                                                                                                                   |
+| **Infernal Magic (from a Demon)**                      | Appears as: Red/Orange                                                           | It burns hot.                                                     | Like sticking your head in an oven. It's like willingly holding on to a hot pan and getting angry that it's so hot, then using that anger to strike your enemies. It's a pain to use.                                                                                                                                                                                                                                                                                                                       |
+| **Necromantic Magic (from a Necromantic God)**         | Appears as: Purple/Black                                                         |                                                                   | Like breathing in dense fog and tasting bugs in your breathe. It's wet, and disgusting. Sprinkled soil sticking to your wet shoulders. As the spell grows stronger, it's like sticking your hand in your dead dog's throat and feeling its gastric juices. Whenever I cast it, there's a sense of dread in the air. Yes we elves can see in the dark, but there's a limit. I imagine this magic is like that. The darkness. Along with the smell of your dead dog's stomach at your fingertips. It's dirty. |
+| **Nature or Fey Magic (from an older/nature/fey god)** | Appears as: Green/Brown/Blue or Clear                                            |                                                                   | It's refreshing at times, but dirty in a sense. It's beating the dust off your bed duvet, washing it, then letting it dry in the sun. When the day's gone, it feels clean, fragrance of linen, and well worth the effort. The problem was the effort.                                                                                                                                                                                                                                                       |
+|                                                        |                                                                                  |                                                                   |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| **Factors Influencing Appearance**                     |                                                                                  |                                                                   |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| Source of Mana                                         | Determines the color or hue of the magic (e.g., blue, green, red).               |                                                                   | I once met a human whose spells were all red, despite having no ties to any demons. Turns out he was a sorcerer, and he copied his Tiefling master's spells.  As he got older, the spells he learned became more aggressive. War spells. People kept calling his abilities the work of demons. It turned from purple to red. Color isn't the only indicator of a source it seems.                                                                                                                           |
+| Mentor                                                 | Can impart a distinctive style or appearance to the caster's magic.              |                                                                   |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| Environment                                            | The surroundings influence the manifestation (e.g., shimmering in forests).      |                                                                   |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| Unique Elf Ability                                     | Elves can taste magic, which can be unpleasant or dangerous (like rotten flesh). |                                                                   |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+
+## Magic Systems to take from
+### Ars Magica Hermetic Magic
 Verb and Noun
 
 Common Magic Damage Types
@@ -113,7 +156,7 @@ House of Basalt
 
 
 
-Fragments of Magic (Hard System)
+#### Fragments of Magic (Hard System)
 How Magic Works
 In Artheria, magic is still largely unknown, even by those who study it
 There are various organizations studying it to this day. Libraries, Guilds, etc.
@@ -121,17 +164,11 @@ Some societies use it as a power source
 It seems to be present in all things, living or nonliving
 Sentient creatures can control it at will, specifically those that can communicate with spoken language.
 Some non-sentient creatures can still use magic, although primitive methods.
-The Sight, Shape, Sound, Noise and Feel of magic can vary incredibly. Spellcasting is personal.
-If raw: Blue.
-If from a God: White/Yellow.
-If from a Demon: Red/Orange.
-If from a Necromantic God: Purple/Black.
-If from an older/nature/fey god: Green/Brown/Blue.
-Various factors can change the appearance of Magic casting.
-Source of Mana
-Mentor
-The Environment of the caster
-Elves can uniquely taste magic. Most dare not to, since it can be like eating rotten flesh.
+
+
+
+
+
 About a 1/10th of the world can cast magic. In Order:
 Elves
 Tieflings

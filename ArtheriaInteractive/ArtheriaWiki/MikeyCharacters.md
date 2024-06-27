@@ -11,14 +11,14 @@ A talker for social encounters
 
 Barbarian
 Human
-Haeki
+## Haeki
 Unplayed
 
 Does not state it, but wants power. His own army.
 
 Bard
 Half-Elf
-Natali Bourbon
+## Natali Bourbon
 A Mapmaker and Historian.
 She wants to travel the world and create a guide.
 She’s writing a book called “Tales of Artheria: A guide to our world.”
@@ -26,7 +26,7 @@ She understands that the world is constantly changing. Even so, she wants to vis
 
 
 Cleric
-Jaufran
+## Jaufran
 Human Life Cleric.
 Age 40’s.
 Worships the God of Life. He is borderline suicidal, and wishes to die towards a greater goal for his god.
@@ -42,14 +42,13 @@ I don’t wish for you to go to a shrine in her name, or to give alms. All I ask
 
 Lliira will see to your joy. She will stretch the sunlight just a little bit farther for you. Cut short the nights that you must be alone. 
 
-
-
 (Joke Character)
 
 
 
 Druid
-Off-White (Mentioned in Jason’s Tiefling Two Shot)
+## Off-White 
+(Mentioned in Jason’s Tiefling Two Shot)
 
 A White Wolf
 Used to lead a pack of Red Wolves. Has come in contact with the Straphan Forest Spirit, who sees that the forest can benefit from his becoming a human.
@@ -58,8 +57,8 @@ New to the world as a humanoid, he is often awkward, has trouble with people, an
 
 The Straphan Forest Spirit will not see him again, and will not take back his ‘blessing’ until he proves himself to the beings of the forest.
 
-## Fighter
-Veilo
+## Veilo
+Fighter
 Inspired by my first ever DnD Character, 3.5e
 Ex-Soldier. Ratty Cloak. Special Helmet that is open at the face.
 
@@ -126,8 +125,8 @@ I know that I will cause much more suffering, I may have to take the lives of th
 
 
 
-## Monk
-Yakud
+## Yakude
+Monk
 Fights with an artifact in a single gauntlet that covers his right forearm. When the demon senses danger, it cloaks the hand in a protective glove.
 
 Yakud wants to learn to be the best fighter. This is done by defeating the five animal schools.
@@ -149,11 +148,10 @@ Appeared in a one shot with Kazka, Jason’s character. Was not meant to be play
 
 
 
+
+## Candor
 Rogue
-
 Half-Elf
-Candor
-
 Played multiple times here and there. Plays more like a shifty talker, uses a different accent every time he talks to strangers. Uses his bow a lot.
 
 
@@ -203,10 +201,8 @@ Backstory
 -Candor is 20, 2 years after leaving home.
 
 
-
---------------------------------------------------
 Character Development Tidbits
---------------------------------------------------
+
 -Went to formal school, hence the accent.
 -No serious romantic partners. I am 'saving himself' for my childhood love. But I am weak to beautiful humans/elves with forward personalities. I'll consider my first time to be a proper woman with developed rapport.
 -I have a scar on my left knee from hunting in my childhood. It looks like a feather. I also have small scars underneath my right forearm and my right jawline from a fall.
@@ -271,35 +267,27 @@ My greatest regret is losing contact with my childhood friend.
 
 I value trust in my friends. Their trust that I am capable in solving whatever life throws at me.
 
-
 My signet ring bears the mark of a quill with elven-inspired decorum.
---------------------------------------------------
-HISTORY
---------------------------------------------------
-Chapter 1: The Mines
-I was discovered by a party, one of the members being Sylphrena. I joined them, only for the party to dissolve before the mission began.
+
+Chapter 1: My Life
+After leaving home, Candor travelled with a small elven girl named Sylphrena
 
 Chapter 2: Sylphrena
-After leaving home, Candor travelled with a small elven girl named Sylphrena.
----------------------------------------------------------
-Chapter 3: Newharf
+Joined for a cavern quest. It dissolved.
 
+Chapter 3: Newharf
+ A guard for a short time.
 Candor spent some time as a watchmen for a group named the 'Cobalt Soul' (The group later rebranded as Palladium due to another group having pre-existed them.)
-----------------------------------------------------------
+
 Chapter 3: Survivors
 26APRIL2022
 
 
-
-
 Session 1
-Upon return home for Divide Day, hoping to see any of his family, Candor sees that his home has been burned to the ground.
+Upon return home, hoping to see any of his family, Candor sees that his home has been burned to the ground.
 
-He leaves Tangen, his hometown, and goes to Gestal, the capitol. There, he meets a group of people who seek to have an audience with the king.
+He leaves , his hometown, and goes to Gestal, the capitol. There, he meets a group of people who seek to have an audience with the king.
 
-Jeilani - Homeless Halfling Spellcaster
-Tacita - Elvish Woman
-Manbun 'Cid' - Human Rogue
 
 And from a description by Jeilani, He may know of Hiss, a nephew of the Barman in the Gestallion Inn.
 
@@ -319,9 +307,8 @@ TBC...
 
 
 
----------------------------------------
 Shopping List
----------------------------------------
+
 Disguise Kit
 Compact Crossbow w/ Distance
 Better Stealth Clothing
@@ -344,7 +331,8 @@ Look up: -Real world Civil Cases
 
 
 ## Sorcerer
-Auricle. ‘Auri’
+Auricle. 
+### Auri
 Idea:
 A Blind Sorcerer. Burnt hands from feeling around. They see the world through hearing. Their magic is all based on hearing.
 
@@ -375,7 +363,7 @@ The Loop must be closed. He is responsible for destroying all literature of the 
 
 ## Wizard
 Dhampir
-Kori
+### Kori
 Casts sleep a lot.
 Played in Jason’s Campaign
 
@@ -391,6 +379,7 @@ Intermediate Surgeon. He has to visit someone to get numbing agents.
 
 ## Blood Hunter
 Ex-Cultist who prays to an old blood god.
+### Sickly
 Left the Cult after thinking that they were sheltering him from the world because it’s ‘filled with disease’
 
 They were right, to a degree. He gets sick easily.
