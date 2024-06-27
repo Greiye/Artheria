@@ -11,10 +11,13 @@ The World of Artheria is a large one, consisting of all manner of races, culture
 
 [Cities and Towns](Cities-and-Towns.md)
 
+[[Magic-and-Systems]]
+
+
 #### [DM Tools](DMHelp.md)
 
 Chronological Order of Past Sessions
-
+--------------------
 [Various History (Another Summary of History)](HistoryVarious.md)
 
 [History: The Scales of Amethyst Peak](AmethystPeakHistory.md)

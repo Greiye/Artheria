@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "baa7691e9c0575b7",
+        "id": "33085d67c7c92ad4",
         "type": "tabs",
         "children": [
           {
-            "id": "36b56196bd2fe381",
+            "id": "b24ed5e81616c656",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Candor 'Smith' Nocktcrest.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f955cff933aa5c03",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Candor 'Smith' Nocktcrest.md",
+                "file": "ArtheriaInteractive/ArtheriaWiki/Magic-and-Systems.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,8 +85,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Candor 'Smith' Nocktcrest.md",
-                "collapseAll": false,
+                "file": "ArtheriaInteractive/ArtheriaWiki/Magic-and-Systems.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Candor 'Smith' Nocktcrest.md",
+                "file": "ArtheriaInteractive/ArtheriaWiki/Magic-and-Systems.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,16 +125,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Candor 'Smith' Nocktcrest.md"
+                "file": "ArtheriaInteractive/ArtheriaWiki/Magic-and-Systems.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -158,13 +146,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "36b56196bd2fe381",
+  "active": "b24ed5e81616c656",
   "lastOpenFiles": [
-    "ArtheriaInteractive/ArtheriaWiki/Cities-and-Towns.md",
+    "ArtheriaInteractive/ArtheriaWiki/ArtheriaWikiMain.md",
+    "ArtheriaInteractive/ArtheriaWiki/Artheria-Pre.md",
+    "ArtheriaInteractive/ArtheriaWiki/AmethystPeakHistory.md",
+    "ArtheriaInteractive/ArtheriaWiki/AllHistory.md",
+    "ArtheriaInteractive/ArtheriaWiki/CharacterDevQuestions.md",
+    "ArtheriaInteractive/ArtheriaWiki/Caspa.md",
+    "ArtheriaInteractive/ArtheriaWiki/Characters.md",
+    "ArtheriaInteractive/DM-Notes.md",
+    "AuthorshipWork/DreamGame.md",
+    "AuthorshipWork/OrganizationMkI.png",
+    "AuthorshipWork/RandomIdeastoExploreatNight.md",
+    "AuthorshipWork/PhilippinePixelisometric.png",
     "Candor 'Smith' Nocktcrest.md",
+    "ArtheriaInteractive/ArtheriaWiki/Magic-and-Systems.md",
+    "ArtheriaInteractive/ArtheriaWiki/Cities-and-Towns.md",
     "ArtheriaInteractive/The-World-of-Artheria.md",
     "ArtheriaInteractive/ArtheriaWiki/Geography.md",
-    "ArtheriaInteractive/ArtheriaWiki/ArtheriaWikiMain.md",
     "The.md",
     "Characters"
   ]

@@ -1,60 +1,67 @@
 Types of Magic Users and their source
 
-Type
-Source
-Druids
-Magic from Nature, Old God or Element
-Elven Old Gods
-Faith-Based
-Magic from a Sentient Greater Entity
-Power limited by number of followers
-Human Religion
-Church of the First
-House of Basalt
-Warlocks - Patron Based
-Magic from a Lesser Entity
-Tiefling ‘Promise that Shattered the World’
-Wizards
-Magic from Knowledge, Materials
-Can use Runes, Scrolls, Etc.
-Study of Magic
-Sorcerers
-Limited Users
-Blood Hunters
-Various Creatures
-Magic-Sensitive
-Can usually do cantrip level magic
-Various Creatures, rare.
-Non-Magics
-Can only use scrolls or magic put into materials.
-Common
+
+## Sources
+
+| Source          |                   | Info                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| --------------- | ----------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Old Gods        | External          | Forgotten Gods who still contain their power, but have lost physical state. Their power is summoned through the mana in flora and fauna. Associated with Druids. They control the world through animals and what others deem natural occurences. Associated with Elements Ice, Water, etc.                                                                                                                                                                                                                  |
+| New Gods        | External Faith    | Gods whose names are known through society. They can have a physical form like the old gods, but can take shape near their disciples. Those who call themselves scientists believe that gods are a parasitic entity that can attach to hosts via radiation. Thus, why they force their believers to always have their trinkets on them. These new gods do not have the mana mastery of the old gods, and thus cannot affect plants and animals. Gods do not have to be good or evil, and have an alignment. |
+| Patrons         | External/Internal | Similar to new gods, patrons are like lesser gods. They have great power, but do not have the capacity for thousands of followers. Instead, they can take the form of cults, their power passed to a certain few. The power passed to the few, enhance their abilities.                                                                                                                                                                                                                                     |
+| Wizards         | External          | These scholars use the knowledge of those who practiced their trade before them. They are close to scientists, in how they take measured approach to coaxing mana from everyday materials and ingredients. They themselves have no more magical power than the common person. Also there are many tales of wizards bearing sorcerer children due to mana proximity. Magic from Knowledge, Materials<br>Can use Runes, Scrolls, Etc.<br>Study of Magic                                                       |
+| Sorcerers       | Internal          | Sorcerers are known by many names. Witches, Freaks, etc. They draw their power from within, needing no external source. Some of these sorcerers can become patrons or even gods themselves. It is very common for a sorcerer's first ability to be telekinesis or to produce a spark. When this rite of passage has been achieved, good willed folks will consider them magic users, and not simply magic sensitive.                                                                                        |
+| Blood Hunters   | Internal/External | Common people who have had different types of mana inserted into them either from surgery or procedure of events.                                                                                                                                                                                                                                                                                                                                                                                           |
+| Magic Sensitive | Internal          | At the cusp of being a sorcerer. Often Magic sensitive people report being able to use a bit of magic, but not well, and not consistently. The common magic sensitive person can at best make metal a little hotter than usual, with that one ability often being their only ability.<br><br>Still, all magic sensitive have a sense.<br><br>Animals can be magic sensitive.                                                                                                                                |
+| Common          | Internal          | Everyone has a bit of mana in them.                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| Non-Magical     |                   | Aberrants in the way that they hold no mana. Often this means that they are necromantic. It is not normal to have absolutely no mana in one's body, as it is seen to be the world's life force.                                                                                                                                                                                                                                                                                                             |
 
 
-Magic Levels and Examples
-Most Magic-Users are taught the magic categories.
-
-1 Mage Armor, etc.
-2 Enlarge creatures, become invisible
-3 Call Lightning
-4 Banish creatures into another dimension
-5 Scrye into a place
-6 Create walls of Ice
-7 Teleport, Resurrect, Regenerate Limbs
-8 Create fields that dispel all magic, earthquakes
-9 Words that kill, Force Meteors to fall, stop time, see into the future
 
 
-Magic Schools
+## Spell Categories
 
-Abjuration - Protective Spells, Wards
-Conjuration - Making
-Divination - Knowing
-Enchantment - Convincing
-Evocation - Energy Manipulation 
-Illusion - Tricking
-Transmutation - Changing
-Biomancy - Life Magic
-Necromancy - The Forbidden Magic
+| Magic Categories | Info                                   | Example                                                                   | Rationale                                                                                              |
+| ---------------- | -------------------------------------- | ------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ |
+| Prestidigitation | Magic Tricks that do nothing of value. | Sparks                                                                    | This power can do no harm, at best be a small setback not even worth mentioning.                       |
+| 0 Cantrip        |                                        | Firebolt                                                                  | These are common spells that could be used in lieu of stone throwers. Not exactly lethal to a soldier. |
+| I                |                                        | 1 Mage Armor, etc.                                                        | Notable boon to a group of soldiers. Could turn the tide of battle.                                    |
+| II               |                                        | 2 Enlarge creatures, become invisible                                     | Will definitely turn the tide of battle.                                                               |
+| III              |                                        | 3 Call Lightning                                                          | Practically a volley of arrows that could hurt or maim a platoon of men.                               |
+| IV               |                                        | 4 Banish creatures into another dimension                                 | Otherworldly power that could render generals dead.                                                    |
+| V                |                                        | 5 Scrye into a place                                                      | This is magic that could win a war.                                                                    |
+| VI               |                                        | 6 Create walls of Ice                                                     | Power that can decimate villages.                                                                      |
+| VII              |                                        | 7 Teleport, Resurrect, Regenerate Limbs                                   | Power to rival Patrons and lesser gods.                                                                |
+| VII              |                                        | 8 Create fields that dispel all magic, earthquakes                        | Power that could decimate cities                                                                       |
+| IX               |                                        | 9 Words that kill, Force Meteors to fall, stop time, see into the futuref | Godly power.                                                                                           |
+
+'Wish' is considered to be the 10th and ultimate spell level.
+
+> 'The sage saw it once. The form that the enemy's Wish took.
+>  It wasn't like her master said, it wasn't a bright light that blinded everyone.
+> It was a faceless wraith, with warm candles floating all around her. She summoned a ghostly blue fabric, and began to cut it with scissors. with every cut, the world around her blurred, and she questioned her surroundings. The soldier who were in front of her changed numbers, then faces and armors. The ruins became clean, bright and blue. With every press of her scissors into the ghostly fabric, it changed like a new painting. dilapidated and old. then crumbled and burning. Then moss in every direction.
+> 
+> When the sage talks of it, she was certain that it was what she saw. She felt her strong, scarred hands suddenly shrink and become supple. Her height shrink down. Her horns disappear, her ears snapping to a shorten length.
+> 
+> When they left to go home, she wasn't sure that it was her home. She knew the way, kissed her husband. But he looked different. His soul felt the same; It was everything else around them.
+> 
+> She was the only magic user in her platoon. A secret she kept. As she lives her life, she wonders if it was just a dream, or maybe she's still in the dream.'
+r
+
+---------------
+## Magic Schools
+
+| School        | Description              | Example Spells                                                                                               |
+| ------------- | ------------------------ | ------------------------------------------------------------------------------------------------------------ |
+| Abjuration    | Protective Spells, Wards | *Shield*: Creates a magical barrier for protection. <br> *Counterspell*: Cancels out another spell.          |
+| Conjuration   | Making                   | *Teleportation Circle*: Creates a circle to teleport to. <br> *Summon Monster*: Summons a creature to aid.   |
+| Divination    | Knowing                  | *True Seeing*: Sees things as they actually are. <br> *Detect Thoughts*: Reads surface thoughts.             |
+| Enchantment   | Convincing               | *Charm Person*: Makes a person friendly towards the caster. <br> *Geas*: Imposes a magical command.          |
+| Evocation     | Energy Manipulation      | *Fireball*: Creates an explosion of fire. <br> *Lightning Bolt*: Sends a bolt of lightning towards a target. |
+| Illusion      | Tricking                 | *Invisibility*: Makes someone or something invisible. <br> *Major Image*: Creates a realistic illusion.      |
+| Transmutation | Changing                 | *Polymorph*: Changes the form of a creature. <br> *Enlarge/Reduce*: Changes a creature's size.               |
+| Biomancy      | Life Magic               | *Healing Word*: Heals wounds. <br> *Revivify*: Brings a creature back to life shortly after death.           |
+| Necromancy    | The Forbidden Magic      | *Animate Dead*: Raises undead minions. <br> *Power Word Kill*: Instantly kills a creature with low health.   |
+
 
 
 Types of Magic Casting
@@ -65,7 +72,7 @@ Material
 Thought
 Rune Casting
 
-On Patrons
+## On Patrons
 The usual story is that a warlock makes a promise with a demon, and this demon gives them a fraction of their power. In exchange for this power, the warlock is compelled to do the demon’s bidding. Often this demon is godlike, untouchable by the warlock.
 But what if that’s not the case? What if the demon is made vulnerable, just as much as the warlock? As if the promise goes both ways?
 
