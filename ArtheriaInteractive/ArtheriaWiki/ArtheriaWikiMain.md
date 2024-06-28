@@ -36,7 +36,7 @@ Past Sessions | Desc
 [Nezra](Nezra.md) | Jaimee, Josh
 [Ramssess](Ramssess.md) | Andy
 [Biliran: Scorched Earth](BiliranScorchedEarth.md) | Jason's First Session
-[Kori](KoriTale.md) | Jason's first long session for Mike and Liv
+[Kori](Kori's%20Tale.md) | Jason's first long session for Mike and Liv
 [Kazka's Tale](TaleofKazka.md) | Jason's Warlock Adventurer
 [Veilo: The Mercenary](TaleofVeilo.md) | Mike's first character concept, elaborated on by Jason
 [Kazka and Raq](KazkaRaq.md) | Mikey Development on Kazka, Jason's Warlock

@@ -1,0 +1,1 @@
+Kori is a human woman, ages 14-17. She is a student of Ranlean
