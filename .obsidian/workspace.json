@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "de2800b3a307755a",
+        "id": "b923f08f85b2f710",
         "type": "tabs",
         "children": [
           {
-            "id": "6e65e5267916d068",
+            "id": "99d1b84e7f156c4e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ArtheriaInteractive/ArtheriaWiki/Stories and Tales (Sessions)/Biliran Scorched Earth.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -69,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "c07ec266b53b9801",
@@ -86,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ArtheriaInteractive/ArtheriaWiki/Stories and Tales (Sessions)/Biliran Scorched Earth.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ArtheriaInteractive/ArtheriaWiki/Stories and Tales (Sessions)/Biliran Scorched Earth.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "ArtheriaInteractive/ArtheriaWiki/Stories and Tales (Sessions)/Biliran Scorched Earth.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -147,8 +138,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6e65e5267916d068",
+  "active": "99d1b84e7f156c4e",
   "lastOpenFiles": [
+    "ArtheriaInteractive/ArtheriaWiki/Stories and Tales (Sessions)/Biliran Scorched Earth.md",
     "ArtheriaInteractive/ArtheriaWiki/History and Recordings/AllHistory.md",
     "ArduinoSprite.png",
     "ArtheriaInteractive/ArtheriaWiki/History and Recordings/NewDawn.md",
