@@ -11,8 +11,12 @@
             "id": "6e65e5267916d068",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "ArtheriaInteractive/ArtheriaWiki/Stories and Tales (Sessions)/Biliran Scorched Earth.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "c07ec266b53b9801",
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "ArtheriaInteractive/ArtheriaWiki/Stories and Tales (Sessions)/Biliran Scorched Earth.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "ArtheriaInteractive/ArtheriaWiki/Stories and Tales (Sessions)/Biliran Scorched Earth.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "ArtheriaInteractive/ArtheriaWiki/Stories and Tales (Sessions)/Biliran Scorched Earth.md"
+              }
             }
           }
         ],
@@ -140,37 +149,36 @@
   },
   "active": "6e65e5267916d068",
   "lastOpenFiles": [
+    "ArtheriaInteractive/ArtheriaWiki/History and Recordings/AllHistory.md",
+    "ArduinoSprite.png",
+    "ArtheriaInteractive/ArtheriaWiki/History and Recordings/NewDawn.md",
+    "ArtheriaInteractive/ArtheriaWiki/History and Recordings/PendragonLineage.md",
+    "ArtheriaInteractive/ArtheriaWiki/History and Recordings/Artheria-Pre.md",
+    "ArtheriaInteractive/ArtheriaWiki/Characters and Groups/Candor Nockcrest.md",
+    "ArtheriaInteractive/ArtheriaWiki/Dungeon Master Materials/Aether-System.md",
+    "ArtheriaInteractive/ArtheriaWiki/Dungeon Master Materials/118 Elements.md",
+    "ArtheriaInteractive/ArtheriaWiki/Characters and Groups/Xantara.md",
+    "ArtheriaInteractive/ArtheriaWiki/Characters and Groups/Veilo.md",
+    "ArtheriaInteractive/ArtheriaWiki/Characters and Groups/The Rot Wizard.md",
+    "ArtheriaInteractive/ArtheriaWiki/Characters and Groups/Ramssess.md",
+    "ArtheriaInteractive/ArtheriaWiki/Characters and Groups/Rackyoshiet 'Raq'.md",
+    "ArtheriaInteractive/ArtheriaWiki/Characters and Groups/Nezra.md",
+    "ArtheriaInteractive/ArtheriaWiki/Characters and Groups/MikeyCharacters.md",
+    "ArtheriaInteractive/ArtheriaWiki/Characters and Groups/Kori of Ranlean.md",
+    "ArtheriaInteractive/ArtheriaWiki/Characters and Groups/Darkwater Family.md",
+    "ArtheriaInteractive/ArtheriaWiki/Characters and Groups/Characters.md",
     "The Jury.md",
     "ArtheriaInteractive/ArtheriaWiki/Stories and Tales (Sessions)/Kori's Tale.md",
     "ArtheriaInteractive/ArtheriaWiki/Stories and Tales (Sessions)/ShortstoryTech.md",
     "ArtheriaInteractive/ArtheriaWiki/Transversal.md",
     "ArtheriaInteractive/ArtheriaWiki/The-World-of-Artheria.md",
     "ArtheriaInteractive/ArtheriaWiki/ArtheriaWikiMain.md",
-    "ArtheriaInteractive/ArtheriaWiki/Characters and Groups/DarkwaterFamily.md",
     "ArtheriaInteractive/ArtheriaWiki/Settlements and Locations/Settlement-Ranlean.md",
-    "ArtheriaInteractive/ArtheriaWiki/Dungeon Master Materials/118 Elements.md",
     "Twoshot Rough Draft.md",
     "Prototype.png",
     "GridPaperBackground.png",
-    "ArtheriaInteractive/ArtheriaWiki/Settlements and Locations/ColossusFields.md",
-    "ArtheriaInteractive/ArtheriaWiki/Dungeon Master Materials/Aether-System.md",
-    "AmethystPeak.md",
-    "AuthorshipWork/RandomIdeastoExploreatNight.md",
-    "AuthorshipWork/Resume.md",
-    "ArtheriaInteractive/ArtheriaWiki/Settlements and Locations/Tria-Prima.md",
-    "Untitled.md",
-    "ArtheriaInteractive/ArtheriaWiki/Characters and Groups/Kori of Ranlean.md",
-    "ArtheriaInteractive/ArtheriaWiki/Stories and Tales (Sessions)/LastoftheFirst.md",
-    "DnDNotesAnimalKingdomvsStrengthBrigadeApril7.md",
-    "ArduinoSprite.png",
-    "ArtheriaInteractive/ArtheriaWiki/Characters and Groups/Candor Nockcrest.md",
-    "Candor 'Smith' Nocktcrest.md",
-    "ArtheriaInteractive/ArtheriaWiki/Stories and Tales (Sessions)/KazkaRaq.md",
-    "ArtheriaInteractive/ArtheriaWiki/Stories and Tales (Sessions)/BiliranScorchedEarth.md",
-    "ArtheriaInteractive/ArtheriaWiki/Characters and Groups/The Rot Wizard.md",
     "AuthorshipWork/PhilippinePixelisometric.png",
     "AuthorshipWork/OrganizationMkI.png",
-    "AuthorshipWork/DreamGame.md",
     "ArtheriaInteractive/ArtheriaWiki/Lore of Creatures and Systems",
     "ArtheriaInteractive/ArtheriaWiki/Dungeon Master Materials",
     "ArtheriaInteractive/ArtheriaWiki/History and Recordings",

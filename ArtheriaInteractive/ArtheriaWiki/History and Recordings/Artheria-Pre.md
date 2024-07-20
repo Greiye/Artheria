@@ -2,29 +2,19 @@
 Before the modern times, our ancestors came from a far away land. This place is known as the First World.
 
 ### Roaming Spirits
-Before the world is at it was, it was a place of spirits. Godchildren, the living god of the collossus, what ever they were, they roamed the planet as shapeless beings, absorbing each other.
+Before the world is at it was, it was a place of spirits. Godchildren, the living god of the colossus, what ever they were, they roamed the planet as shapeless beings, absorbing each other.
 
 {{note
 ##### A Rogue's Thoughts on Spirits
 "Spirits? Why would you want to know how I feel about all that? Listen; I'm along for the ride right until you need something killed. Then it's  2 gold per head. That's it.
-
-
-I mean,
-
-We had to come from something. We didn't just appear on the planet. So I suppose I believe in it. So, if that whole godblood thing is true, then spirits of all shapes and sizes ran right out those titan veins."
-}}
+	I mean,We had to come from something. We didn't just appear on the planet. So I suppose I believe in it. So, if that whole godblood thing is true, then spirits of all shapes and sizes ran right out those titan veins."
 
 #### Changelings of the World
 The first sentient beings, the proto-man. They resemble the spirits that they call their ancestors, slightly glowing in light. They could change their shape, but not their size; unlike their spirit ancestors.
-
-
 ## Beastmen
 Rather than constantly change what they were, some changelings permanently took the form of the animals that we see today. The Beastmen are the linked between the changelings and the flora and fauna. Most Beastmen pray to the Rabbit God, a spirit that is responsible for the then high population of the Beastmen. They also worship their totem animal. 
-
 ### Followers of the Rabbit God
 The Rabbit God is known to be the last remaining spirit of the First World.
-
-
 ### Giants: The Children of Titans
 The Giants believe that their ancestors were not spirits or changelings, but rather the last surviving titan couple. They have 6 fingers and round ears, unlike the elves. Because of their culture and location, Giants stayed in their Stone age, working together to bring down massive beasts bigger than them.
 
@@ -66,14 +56,14 @@ Elves usually live 1000 years. By their 900th year, their magic begins to fade. 
 
 {{wide
 ##### Elf Types
-| Elf | Location and Description |
-|:-----------|:-------------:|
-| Wooden Elves     | Main Lineage during the purge. They make great acrobats swing from tree vines.
-| Darker Elves     | Elves that live in the underdark with Tieflings. They are sensitive to light, but can see the dark better than their other elven counterparts.
-| City Elves       | Elves returning to human society. They have much more mana and intellect than other elves.
-|Tundran Elves     | Elves that live in Tundra Pockets. They are much more paler, more fair than the other elves. They are dependent on technology more.
-|Sorne Elves       | Live in the Sornes Desert. They usually wear loose, white clothing.
-|Water Elves       | Live Close to Water. Often they are in the waters in wetsuits or simply naked. Because of their proximity to water, they find clothing annoying as they have to put it on and off. A such, the vast majority of men and women simply wear black shorts. 
+| Elf           |                                                                                                                Location and Description                                                                                                                 |
+| :------------ | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| Wooden Elves  |                                                                                     Main Lineage during the purge. They make great acrobats swing from tree vines.                                                                                      |
+| Darker Elves  |                                                     Elves that live in the underdark with Tieflings. They are sensitive to light, but can see the dark better than their other elven counterparts.                                                      |
+| City Elves    |                                                                               Elves returning to human society. They have much more mana and intellect than other elves.                                                                                |
+| Tundran Elves |                                                           Elves that live in Tundra Pockets. They are much more paler, more fair than the other elves. They are dependent on technology more.                                                           |
+| Sorne Elves   |                                                                                           Live in the Sornes Desert. They usually wear loose, white clothing.                                                                                           |
+| Water Elves   | Live Close to Water. Often they are in the waters in wetsuits or simply naked. Because of their proximity to water, they find clothing annoying as they have to put it on and off. A such, the vast majority of men and women simply wear black shorts. |
 }}
 
 
