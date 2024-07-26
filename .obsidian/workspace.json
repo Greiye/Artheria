@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "b923f08f85b2f710",
+        "id": "053de6ca2644df26",
         "type": "tabs",
         "children": [
           {
-            "id": "99d1b84e7f156c4e",
+            "id": "174fc28eb298a28b",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
           }
@@ -49,7 +49,7 @@
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
-                "sortOrder": "alphabetical"
+                "sortOrder": "byCreatedTime"
               }
             }
           },
@@ -138,39 +138,45 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "99d1b84e7f156c4e",
+  "active": "17b0e9634b74b153",
   "lastOpenFiles": [
-    "ArtheriaInteractive/ArtheriaWiki/Stories and Tales (Sessions)/Biliran Scorched Earth.md",
-    "ArtheriaInteractive/ArtheriaWiki/History and Recordings/AllHistory.md",
-    "ArduinoSprite.png",
-    "ArtheriaInteractive/ArtheriaWiki/History and Recordings/NewDawn.md",
-    "ArtheriaInteractive/ArtheriaWiki/History and Recordings/PendragonLineage.md",
+    "Artherian Unsorted Images/Various_Types_of_Elves.png",
+    "Artherian Unsorted Images/Whitewash_River.png",
+    "Artherian Unsorted Images/Tiefling_Village.png",
+    "Artherian Unsorted Images/Sornes_Village.png",
+    "Artherian Unsorted Images/Elves_Populace.png",
+    "Artherian Unsorted Images/Dragonborn_Populace.png",
+    "Artherian Unsorted Images/DALL·E 2024-07-26 08.12.56 - The Adventurer's Guild in action, exploring the Iceless Frontier after the end of Artheria's Ice Age. Adventurers are helping to build communities, or.webp",
+    "Artherian Unsorted Images/DALL·E 2024-07-26 08.10.05 - A book cover image for a fantasy novel based on the settings described in the Artheria-Pre.md file. The cover features a mystical land with ancient fl.webp",
+    "Artherian Unsorted Images/DALL·E 2024-07-26 08.09.57 - A cinema poster for a fantasy movie based on the settings described in the Artheria-Pre.md file. The poster features a dramatic scene with giants, bea.webp",
+    "Artherian Unsorted Images/DALL·E 2024-07-26 08.10.02 - A video game case image for a fantasy game based on the settings described in the Artheria-Pre.md file. The cover features giants, beastmen, elves, an.webp",
+    "Artherian Unsorted Images/DALL·E 2024-07-26 08.09.49 - A postcard of the fictional setting described in the Artheria-Pre.md file. The postcard features a serene and vibrant landscape with giants, beastmen,.webp",
+    "Artherian Unsorted Images",
+    "AI Prompt Help.md",
+    "ArtheriaInteractive/ArtheriaWiki/Dungeon Master Materials/DM-Help.md",
+    "ArtheriaInteractive/ArtheriaWiki/Dungeon Master Materials/DM-Notes.md",
     "ArtheriaInteractive/ArtheriaWiki/History and Recordings/Artheria-Pre.md",
-    "ArtheriaInteractive/ArtheriaWiki/Characters and Groups/Candor Nockcrest.md",
-    "ArtheriaInteractive/ArtheriaWiki/Dungeon Master Materials/Aether-System.md",
-    "ArtheriaInteractive/ArtheriaWiki/Dungeon Master Materials/118 Elements.md",
-    "ArtheriaInteractive/ArtheriaWiki/Characters and Groups/Xantara.md",
-    "ArtheriaInteractive/ArtheriaWiki/Characters and Groups/Veilo.md",
-    "ArtheriaInteractive/ArtheriaWiki/Characters and Groups/The Rot Wizard.md",
-    "ArtheriaInteractive/ArtheriaWiki/Characters and Groups/Ramssess.md",
-    "ArtheriaInteractive/ArtheriaWiki/Characters and Groups/Rackyoshiet 'Raq'.md",
-    "ArtheriaInteractive/ArtheriaWiki/Characters and Groups/Nezra.md",
-    "ArtheriaInteractive/ArtheriaWiki/Characters and Groups/MikeyCharacters.md",
+    "ArtheriaInteractive/ArtheriaWiki/History and Recordings/AllHistory.md",
+    "ArtheriaInteractive/ArtheriaWiki/History and Recordings/Amethyst Peak History.md",
+    "DnDNotesAnimalKingdomvsStrengthBrigadeApril7.md",
     "ArtheriaInteractive/ArtheriaWiki/Characters and Groups/Kori of Ranlean.md",
     "ArtheriaInteractive/ArtheriaWiki/Characters and Groups/Darkwater Family.md",
     "ArtheriaInteractive/ArtheriaWiki/Characters and Groups/Characters.md",
-    "The Jury.md",
-    "ArtheriaInteractive/ArtheriaWiki/Stories and Tales (Sessions)/Kori's Tale.md",
-    "ArtheriaInteractive/ArtheriaWiki/Stories and Tales (Sessions)/ShortstoryTech.md",
-    "ArtheriaInteractive/ArtheriaWiki/Transversal.md",
-    "ArtheriaInteractive/ArtheriaWiki/The-World-of-Artheria.md",
-    "ArtheriaInteractive/ArtheriaWiki/ArtheriaWikiMain.md",
-    "ArtheriaInteractive/ArtheriaWiki/Settlements and Locations/Settlement-Ranlean.md",
-    "Twoshot Rough Draft.md",
-    "Prototype.png",
-    "GridPaperBackground.png",
-    "AuthorshipWork/PhilippinePixelisometric.png",
-    "AuthorshipWork/OrganizationMkI.png",
+    "ArtheriaInteractive/ArtheriaWiki/Characters and Groups/Candor Nockcrest.md",
+    "AuthorshipWork/Story-Junkworld.md",
+    "AuthorshipWork/Resume.md",
+    "AuthorshipWork/RandomIdeastoExploreatNight.md",
+    "AuthorshipWork/DreamGame.md",
+    "AuthorshipWork/TheOthersideofPoverty.md",
+    "ArtheriaInteractive/ArtheriaWiki/Lore of Creatures and Systems/Table-100-Points-of-the Aether.md",
+    "ArtheriaInteractive/ArtheriaWiki/History and Recordings/NewDawn.md",
+    "ArtheriaInteractive/ArtheriaWiki/History and Recordings/PendragonLineage.md",
+    "ArtheriaInteractive/ArtheriaWiki/History and Recordings/HistoryVarious.md",
+    "ArtheriaInteractive/ArtheriaWiki/History and Recordings/CurrentEra.md",
+    "ArtheriaInteractive/ArtheriaWiki/Stories and Tales (Sessions)/Biliran Scorched Earth.md",
+    "ArtheriaInteractive/ArtheriaWiki/Dungeon Master Materials/Aether-System.md",
+    "ArtheriaInteractive/ArtheriaWiki/Dungeon Master Materials/118 Elements.md",
+    "ArtheriaInteractive/ArtheriaWiki/Characters and Groups/Xantara.md",
     "ArtheriaInteractive/ArtheriaWiki/Lore of Creatures and Systems",
     "ArtheriaInteractive/ArtheriaWiki/Dungeon Master Materials",
     "ArtheriaInteractive/ArtheriaWiki/History and Recordings",
@@ -179,8 +185,6 @@
     "ArtheriaInteractive/ArtheriaWiki/Characters and Groups",
     "style.css",
     "index.html",
-    "Me.gif",
-    "AuthorshipWork/style.css",
-    "AuthorshipWork/dogicapixel.ttf"
+    "AuthorshipWork/style.css"
   ]
 }

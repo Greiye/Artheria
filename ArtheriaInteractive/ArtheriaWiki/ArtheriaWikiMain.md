@@ -20,7 +20,7 @@ Chronological Order of Past Sessions
 --------------------
 [Various History (Another Summary of History)](HistoryVarious.md)
 
-[History: The Scales of Amethyst Peak](AmethystPeakHistory.md)
+[History: The Scales of Amethyst Peak](Amethyst%20Peak%20History.md)
 
 [History Continued](Historyvariouspt1.md)
 

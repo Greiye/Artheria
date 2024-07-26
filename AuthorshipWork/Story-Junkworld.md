@@ -12,47 +12,47 @@ also inspired by Mad Max
 
 ## In memory of you
 Cyberpunk Setting
-Woman is on a quest
-She's 50 or so. Great shape.
-Asks for directions at a stop
-Child follows her
+- Woman is on a quest
+- She's 50 or so. Great shape.
+- Asks for directions at a stop
+- Child follows her
 
-Scars from fights
-Goes into a building
-Goes into a gaming company
-Rigs electricity
-Opens up a pc
-downloads files
+- Scars from fights
+- Goes into a building
+- Goes into a gaming company
+- Rigs electricity
+- Opens up a pc
+- downloads files
 
-Leaves
-Child appears
-Raiders find them
-Good slaves
-No.
+- Leaves
+- Child appears
+- Raiders find them
+- Good slaves
+- No.
 
-She fights
+- She fights
 
-Map
-Brain Dance like company has an X mark
-VR Company is X as well
+- Map
+- Brain Dance like company has an X mark
+- VR Company is X as well
 
 
-She continues her quest everywhere.
+- She continues her quest everywhere.
 
-Assembles 3D Modeling Software
+- Assembles 3D Modeling Software
 
-Brings out Cassette Tapes
-Brings out Old Tapes
+- Brings out Cassette Tapes
+- Brings out Old Tapes
 
-Goes to a guy
-the guy used to be a VR game dev
-uses the cassette tapes to make the woman a 3D render of her father
-Father has his voice from the cassette
-Father moves like he does in the old videos
+- Goes to a guy
+- the guy used to be a VR game dev
+- uses the cassette tapes to make the woman a 3D render of her father
+- Father has his voice from the cassette
+- Father moves like he does in the old videos
 
-Large Language Model to simulate things he would say.
+- Large Language Model to simulate things he would say.
 
-They play games for a bit. Every once in a while, the father says something robotlike.
+- They play games for a bit. Every once in a while, the father says something robotlike.
 
 ## Chapter 1: The Beginning
 

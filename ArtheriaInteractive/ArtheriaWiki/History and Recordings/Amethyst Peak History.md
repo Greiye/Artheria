@@ -1,11 +1,13 @@
-The Scale of Amethyst Peak
-The Founding
+
+**The Scale of Amethyst Peak**
+
+**The Founding**
 Anarch was a deity of Lachesism; a belief that one can be made better through a disaster that borders on traumatic. Thousands of years ago, during the Era of Ice, Anarch had traveled the continent of Caerne. On the Western part, along the mountain ranges, he hiked to the tallest mountain he could see, along with those who followed him. There, he drew inspiration from the tallest volcano nearby. It bled molten rock, red with the power to devastate anything in its flow. Anarch could not help but watch it.
 
-Flying Beasts of Magic
+**Flying Beasts of Magic**
 As he watched the magnificence of it, he was witness to giant reptiles that flew overhead. This is the first sighting of Dragons. These enormous beasts could only fly through magical means. Anarch was sure of it. He felt it.
 
-He watched the dragons as they gave tributes to the largest of their kind, a small group no more than two or five. He observed intelligence in these beasts. He named the larger dragons The Elder Dragons of Arcavios.
+He watched the dragons as they gave tributes to the largest of their kind, a small group no more than two or five. He observed intelligence in these beasts. He named the larger dragons The Elder Dragons
 
 Anarch wanted their power for himself. They were like the living forms of the lava he had watched. They were powerful, unrelenting, ruling above their own kind. He wanted to tame them.
 
@@ -13,7 +15,7 @@ After taming these dragons, he used them as beasts of burden along with his foll
 
 A thousand years passed. If there were any wild dragons left to take, Anarch did not know of them. The Elder Dragons had long since left. destroyed or having migrated elsewhere.
 
-Dragonglass
+**Dragonglass**
 dragonglass was always seen as just remnants of a dragon battle that ruined the land. But King Filo saw beauty in it. He loves the material so much he crafted his rapier out of it and this magical weapon only boosted his charisma
 
 
@@ -35,26 +37,26 @@ Dragon glass is used in all of the windows of Castle Blackthorne, providing it w
 
 
 
-The Failed Conquests
+**The Failed Conquests**
 Countless battles had been fought for the power that Anarch himself earned. With flying beasts that could breathe fire, every battle was won in his favor. Soon, Amethyst Peak became home to the greatest fighters and dragon riders. One notable battle was that between Amethyst Peak and Black Bay. They had failed. Since then, his settlement had become a symbol of strength and power to all other settlements. The castle walls not even once, touched by invader hands. 
 
-The Rise of the Amereoux
+**The Rise of the Amereoux**
 Filo being the embodiment of “Lover not Fighter”
 his skill is his charisma and ingenuity
 His obsession with aesthetics and beauty proves to be useful because of his attention to detail
 dragonglass was always seen as just remnants of a dragon battle that ruined the land. But King Filo saw beauty in it. He loves the material so much he crafted his rapier out of it and this magical weapon only boosted his charisma
 Then during the war, before he was king, he knew that he didn’t have the fighting skills to help win the war. But he was confident in his ability to see the best in people. So he created a team of who he personally thought would be a great aid to the fight and he equipped each of them with a unique dragon glass weapon
 
-The Current Monarchy
+**The Current Monarchy**
 The kingdom's current ruler is Teofilo Blackthorn, known by various nicknames such as "The Bardic King" and "The Lute of Embers." However, his personal favorite is "Filo the Amereoux," bestowed upon him due to his reputation for engaging in playboy antics. His charismatic nature not only facilitated his romantic conquests, but it also played a pivotal role in rallying his army. King Filo's mastery of the rapier made him a formidable swordsman, yet his true gift lay in the art of Sword Dancing, which he used to inspire others. This exceptional talent, combined with his innate leadership abilities, led to his ascent as the king. Throughout his adventurous endeavors, he amassed a considerable number of lovers, demonstrating his broad-mindedness in his choices.
 
-The Firstborn: Son of the Dragon Mother.
+**The Firstborn: Son of the Dragon Mother.**
 The mother of his first child bore an extraordinary secret. Saphira Maleys, a dragon who had been magically transformed into a human, became entwined in his life, leading to the birth of their son, Lance. Being the offspring of a unique union, Lance possessed the blood of both human and dragon, making him a formidable half-dragon. As he matured, his exceptional combat skills earned him the revered title of the Dragoon Knight of Amethyst Peak. Unbeknownst to many, Lance bore the rightful claim to the throne, yet he carried himself without airs of entitlement. Along his path as a warrior, he encountered Valka Tessarion, a skilled dragon rider, and their union gave rise to a daughter named Lancia, who would inherit the legacy of her remarkable lineage.
 
-Flame Incarnates
+**Flame Incarnates**
 Belial, the son of Alpas Urere, was born of an extraordinary lineage. His mother, an embodiment of the fiery essence known as a flame elemental, bestowed upon him the heritage of a flame genasi. In a fateful union, Belial married Eros Nefeli, an earth genasi, leading to the birth of their child, Biliran, who became a unique combination known as a lava para-genasi. Both Belial and Biliran shared a reputation as merciless combatants, aligning themselves with the ideology of Anarch. Unconcerned with the consequences of their destructive and chaotic fighting style, they displayed little regard for the collateral damage left in their wake. Belial, hailed as the Hellflame, and Biliran, known as the Scorched-Earth Soldier, became infamous figures, embodying their respective monikers.
 
-No Need for a Queen
+**No Need for a Queen**
 Within the kingdom, the court harbored deep-rooted prejudice, vehemently opposing the prospect of Lance ascending the throne and thereby paving the way for a future Queen in the form of Lancia, his rightful heir. Instead, their preference leaned toward King Filo's second son, Belial, for he already had a son of his own, Biliran. In their eyes, this ensured the continuation of the kingdom's traditional patriarchal rule.
 
 In a sinister bid to thwart the possibility of a Queen's reign, the court devised a treacherous conspiracy aimed at eliminating Lance and his family. This calculated act would secure Belial's position as king, allowing the court to maintain their grip on power. However, Lance, ever watchful, caught wind of their nefarious plot. Recognizing the danger that loomed over his loved ones, he took the decisive step of sending Lancia to Strixhaven—a place where she could not only discover the truth of her birthright but also receive training to prepare herself for the eventual battle for the throne against her cousin, Biliran.
