@@ -64,7 +64,7 @@ Humans
 Giants
 
 
-Elves
+## Elves
 Elves come from a primitive homeworld. Due to their long lives of 1000 years, they have witnessed many events. One event being the creation of humans. Their literature is considered to be of high quality to scholars and archeologists as their cultural pride made their content highly researched and valued to be as accurate as possible.
 
 After the creation of humans, the elves have become mostly seclusive to their own. This was due to fear of the unknown, as well as humans having an appearance weirdly uncanny to elves, except for the ears and height. 
@@ -100,7 +100,7 @@ Tundra Elves - Elves that live in Tundra Pockets
 Desert Elves
 Marine Elves
 
-Beastmen
+## Beastmen
 After the war along the giants in ancient history, Beastmen were hunted due to their former alliance with the giants. They took shelter in the wilds where no other race could survive. They fought with one another for leadership, but that endeavor has since dissolved as they adapted to their new surroundings.
 
 Now the beastmen have found purpose in taming animals and becoming close to animals that closely resemble them as well as other beasts. It is common for those from the feather clan to have a roost of eagles and falcons, and so on.
@@ -114,12 +114,12 @@ Beastmen come in all shapes and sizes, living in tribes where the majority is on
 
 Beastmen who try to procreate with another beast culture are met with disappointment. Their genes are not fit. Often these offspring are cast out. Some speculate that this practice is why there are so many odd creatures in the wilds.
 
-Halflings
+## Halflings
 For a time, halflings were resentful of their captors, the beastmen and the elves. But that dissent disappeared with time. As they live long lives compared to most other races, they have used that time to reflect and forgive. Most halflings live peaceful lives, drinking and eating for most of their days, stirring up good times with instruments in hand. This race works hard just as much as they play hard, spending 2 days of the week working tirelessly in the mines, inventing, and cooking up delicious food. Being natives of Artheria, they have the most knowledge of cuisine. All throughout the land, even in elvish society, they have restaurants that sell their food. Legend has it that a small number of large conflicts have been solved by a bowl of halfling stew.
 
 As such, most other races leave halflings alone, actively seeking them out for recipes and cooking advice. But make no mistake, a halfling can be useful in situations that require a small body. Halflings have been known to join the Adventurer’s Guild for a more exciting lifestyle, specifically in asset recollection or exploration. A few halflings know their way around the blade.
 
-Humans
+## Humans
 The most adaptable of the races, humans find their way into most societies as ambassadors. Much like the fairies, the majority of them learn their magic through using natural components and mana-infused items. Their adaptability has also led them to be conduits of magic, with the occasional human being able to cast spells from a magical deity or patron.
  Unlike their elven ancestors, the ability to manipulate magic does not come naturally to them. Although the ability to cast magic from within is still there, the occasional human being is able to do so after rigorous training and practice. 
 Humans can be found living in almost every settlement of every race, their adaptability a universally prized trait. If a human is living among elves, their spellcasting ability must be greater than the surrounding elves. If they are living amongst the beastfolk, their relationship to animals must be practically magical. If a human amongst orcs, they must either be an outstanding fighter or just as merciless.
@@ -148,26 +148,54 @@ Northern Humans
 Blonde Hair, Bright Eyes. Most Contact with Giants.
 
 
-Tieflings
+## Tieflings
 Born from the First Warlock, Tieflings are looked down upon in human society and attacked on sight by Orcs. Their name comes from a term meaning ‘low’ or ‘deep’, as if the power given to them comes from an obscure entity that clawled from the dark depths of a terrible place. They have inherited their magical ability from the elves as was guaranteed in the promise, at the cost of their appearance. They are regarded as ill omens, their dark magic a reason for vigilance and caution. Most uneducated people in smaller towns are afraid of them on appearance alone, much like orcs or beastmen.
+
+**Appearance**
+Tieflings on average, are humanoid.  Their height can be as tall as the elves, and as short at the halflings. They look like humans except for their horns, lack of immediately visible pupils. Their eyes are just bright colored schera. and bright skin color. Skin color can be red, blue, purple. Eyes can be red, blue, purple, yellow.
+
+In the dark, their eyes glow when exposed to light. Like how animals eyes glow in the dark, except more pronounced.
+
+Random Traits of Birth
+
+Tieflings are born with various animal-like traits that appear demonic. Their people see these as different signs, and closeness to certain demons that they believe in.
+The Vast majority of Tieflings have Horns and a tail. very rare do they not. It is something like only 1% of the population. Some people celebrate this, other families who live in mixed societies find this detrimental.
+
+| Trait                | Description                                                                                                                                                                                                     | Examples                                        |
+| -------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------- |
+| Horns and Tail       | The vast majority of Tieflings have horns and a tail. A few do not have tails. A few do not have horns. The horns vary in size. Some only have little dots while for some tieflings their entire head is horns. | Ram-like horns, devil tails                     |
+| Fur Length and Color | Tieflings can have fur of varying lengths and colors.                                                                                                                                                           | Short black fur, long red fur                   |
+| Additional Ears      | Some Tieflings have additional ears.                                                                                                                                                                            | Four ears, two large rabbit ears                |
+| Additional Eyes      | Tieflings can have extra eyes with different shapes and colors.                                                                                                                                                 | Third eye on forehead, yellow eyes              |
+| Pupil Shape          | The shape of Tieflings' pupils can vary significantly.                                                                                                                                                          | Slit pupils, round pupils, goat, several pupils |
+| Skin Texture         |                                                                                                                                                                                                                 | Stony, Mossy,                                   |
+| Multiple Horns       | Some Tieflings have more than one set of horns.                                                                                                                                                                 | Two pairs of horns, small antlers               |
+| Multiple Tails       | Tieflings can be born with more than one tail.                                                                                                                                                                  | Twin snake-like tails, three short tails        |
+| Hooved Feet          | Some Tieflings have hooves instead of regular feet.                                                                                                                                                             | Goat hooves, cloven hooves                      |
+| Tail Type and Length | The type and length of Tieflings' tails can vary.                                                                                                                                                               | Long, spiked tail; short, furry tail            |
+| Skin Color           | Tieflings have skin colors ranging from bright red to deep purple.                                                                                                                                              | Crimson skin, lavender skin                     |
+| Snake Tongue         |                                                                                                                                                                                                                 |                                                 |
+| Demonic Mutation     |                                                                                                                                                                                                                 |                                                 |
+
+Common Traits
+- Tail and Horns
+	- Rare cases of OR, as in not having horns but tail present and vice versa.
+- Eyes
+- Fire Resistance
+- Demonic Language.
+
+
+
 It is unclear which powerful entity their common ancestor gave his soul to, but a side effect of their gift is that they are strongly resistant to fire. A Tiefling can withstand boiling temperatures for hours and can even stand on fire for a long period of time before being burned.
+They are resistant, not immune. Hot enough flames can still burn Tieflings.
+
 
 If a tiefling is in a society that permits their residence, they are more often than not placed in the more dangerous part of town. Still, their resistance to heat makes them prized as firefighters. Their given talent for magic makes them excellent magic users, on par with elves. Unlike elves, the appearance of their casting is alarming. Their bright yellow or red eyes flicker with the shimmer of fire, their spellcasting voice deepens to an inhuman low pitch. Some say that the most powerful spellcasters dim the area of light, making their spells that much more intimidating.
 
+**Dreams**
 During their inception as a people, some tieflings report visions of crossing into the dark planes, soaking in the mana of dark spirits. Their skin can range from a bright red to purple due to the alien habitat they were forced to live in, A kind of place where birds, fish and reptiles thrived. The brightness of their skin displayed that they are masters of fleeing. Their horns, from the animals that butt heads. Their small control of fire and vestigial tails, a remnant of the cold dark place their former spirits chose to live in.
 
-Random Traits of Birth
-Tieflings are born with various animal-like traits that appear demonic. Their people see these as different signs, and closeness to certain demons that they believe in.
-The Vast majority of Tieflings have Horns and a tail. Some people celebrate this, other families who live in mixed societies find this detrimental. Other traits include:
-Fur Length and Color
-Additional Ears
-Additional Eyes and Eye Color
-Pupil Shape
-More than one set of horns
-More than one tail
-Hooved Feet
-Various tail type and length
-Skin Color
+
 
 Magic Casting Appearance
 The Majority of Tieflings cast magic
@@ -179,7 +207,7 @@ The Deamon Relationship
 Different Colors, Magic. All disturbing and aggressive. Unsettling. 
 
 
-Orcs
+## Orcs
 Orcs came into being from Humans. Humans used the knowledge of the fairies, using what they called ‘Ashen Magic’ to try and regain the ability to use magic. This was combined with the technology invented in Artheria. The spell ultimately failed, creating orcs. The spell corrupted the humans who ran the experiment, mutating them into a new type of sentient being.
 
 Because of their degenerative bloodline, the majority of orcs are unintelligent and aggressive, making them the most despised of all the races throughout the land. They are unwelcome in most societies, the intelligent ones having to cover the color of their greenish skin.
@@ -230,12 +258,12 @@ Because of ‘The Promise that Shattered the World’, other races have been doc
 
 Wherever they find themselves, people usually form their opinions of them from the local gossip.
 
-Other Races aka Portalites
+## Other Races aka Portalites
 Fire Genasi - Also known as Emberkin.
+Bird People
 
-
-Extinct Races
-Giants
+## Extinct Races
+### Giants
 	Twice the size of even the largest of beastmen or orc, the giants were a fearsome force to behold. The Scriptures say that the giants were slave mongers, believing that the leader is supposed to rule with might. They had 6 fingers, like 2 middle fingers of any humanoid being. Bones like iron, and could crush the throat of an elf with just 3 fingers.
 
 The Giants went extinct during the Frozen Struggle, when the other races banded together to destroy them. Only scraps of information about the giants exist. One notable excerpt is that during the migration (before the Era of Ice), the Giant Soldiers always came from the North.
@@ -243,7 +271,7 @@ The Giants went extinct during the Frozen Struggle, when the other races banded 
 Similar to humans except their hands have six fingers, their bodies like wood. Savage sentient creatures that think of war, and do not believe in diplomacy. Their culture breeds the best warriors. Their culture has led to their numbers dropping. Estimated population is something like 5,000. They travel and live off giant animals. Their technology because of their culture has stayed in the Stone Age. They are a First Race, existing before the great migration.
 
 
-Fairies
+### Fairies
 	The fairies were small, ferociously intelligent creatures that could sit on the palm of an elf’s hand. They had 4 wings like butterflies, except much thinner and longer.
 
 These humanoids could cast spells with ease. Archeologists assert that the wings may have been vestigial, and that their wings were like sails that flew on the invisible currents of mana all around them.
@@ -253,10 +281,10 @@ An interesting excerpt about the fairies is that in ancient times, savage tribes
 
 The surviving tomes show diagrams of a single powerful fairy lifting giant trees and boulders using magic alone. The same diagram also shows giants burning freshly cut trees to smoke them out.
 
-Changelings
+### Changelings
 Elven books say that for a short time, a small group of sentient humanoids existed along with the first giant and the first man. These creatures were called changelings, having the ability to change their appearance and genetic makeup at will to better adapt to their environment. Within a short time (days or weeks), Changelings could alter their teeth to become carnivorous or gills to breathe water. Most believe they are the proto-types of all races. Only scraps of information exist about them, some going as far as saying that they’re works of fiction by an ancient elf writer. If they did exist, they were left behind in the migration.
 
-Spirits
+### Spirits
 Not exactly a race per se, but beings of pure mana that needed very little to survive. These spirits enveloped the first world, becoming living creatures once their form permanently stabilized. The books say some of them never changed form, drifting among other spirits that did stabilize.
 
 Ancient elven books say that these spirits could have ranged from the size of an ant to a creature that stood above the largest of forests.

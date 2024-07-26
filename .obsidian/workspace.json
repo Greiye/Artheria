@@ -11,8 +11,12 @@
             "id": "174fc28eb298a28b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "ArtheriaInteractive/ArtheriaWiki/Lore of Creatures and Systems/Races.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "ArtheriaInteractive/ArtheriaWiki/Lore of Creatures and Systems/Races.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "ArtheriaInteractive/ArtheriaWiki/Lore of Creatures and Systems/Races.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "ArtheriaInteractive/ArtheriaWiki/Lore of Creatures and Systems/Races.md"
+              }
             }
           }
         ],
@@ -138,8 +146,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "17b0e9634b74b153",
+  "active": "174fc28eb298a28b",
   "lastOpenFiles": [
+    "Artherian Unsorted Images/DALL·E 2024-07-26 10.59.37 - A detailed image featuring Tieflings based on the provided description. Tieflings are humanoid, with heights ranging from tall like elves to short lik.webp",
+    "Artherian Unsorted Images/DALL·E 2024-07-26 10.55.50 - A detailed image featuring Tieflings based on the provided description. Tieflings are humanoid, with heights ranging from tall like elves to short lik.webp",
+    "Artherian Unsorted Images/Tieflings.png",
+    "ArtheriaInteractive/ArtheriaWiki/Lore of Creatures and Systems/Table-100-Points-of-the Aether.md",
+    "ArtheriaInteractive/ArtheriaWiki/Lore of Creatures and Systems/Races.md",
+    "ArtheriaInteractive/ArtheriaWiki/Lore of Creatures and Systems/Monsters-and-Creature-Types.md",
+    "ArtheriaInteractive/ArtheriaWiki/Lore of Creatures and Systems/Magic-and-Systems.md",
+    "ArtheriaInteractive/ArtheriaWiki/History and Recordings/NewDawn.md",
+    "ArtheriaInteractive/ArtheriaWiki/History and Recordings/AllHistory.md",
+    "ArtheriaInteractive/ArtheriaWiki/Transversal.md",
+    "ArtheriaInteractive/ArtheriaWiki/History and Recordings/CurrentEra.md",
+    "ArtheriaInteractive/ArtheriaWiki/History and Recordings/Artheria-Pre.md",
+    "ArtheriaInteractive/ArtheriaWiki/History and Recordings/Amethyst Peak History.md",
     "Artherian Unsorted Images/Various_Types_of_Elves.png",
     "Artherian Unsorted Images/Whitewash_River.png",
     "Artherian Unsorted Images/Tiefling_Village.png",
@@ -148,16 +169,10 @@
     "Artherian Unsorted Images/Dragonborn_Populace.png",
     "Artherian Unsorted Images/DALL·E 2024-07-26 08.12.56 - The Adventurer's Guild in action, exploring the Iceless Frontier after the end of Artheria's Ice Age. Adventurers are helping to build communities, or.webp",
     "Artherian Unsorted Images/DALL·E 2024-07-26 08.10.05 - A book cover image for a fantasy novel based on the settings described in the Artheria-Pre.md file. The cover features a mystical land with ancient fl.webp",
-    "Artherian Unsorted Images/DALL·E 2024-07-26 08.09.57 - A cinema poster for a fantasy movie based on the settings described in the Artheria-Pre.md file. The poster features a dramatic scene with giants, bea.webp",
-    "Artherian Unsorted Images/DALL·E 2024-07-26 08.10.02 - A video game case image for a fantasy game based on the settings described in the Artheria-Pre.md file. The cover features giants, beastmen, elves, an.webp",
-    "Artherian Unsorted Images/DALL·E 2024-07-26 08.09.49 - A postcard of the fictional setting described in the Artheria-Pre.md file. The postcard features a serene and vibrant landscape with giants, beastmen,.webp",
     "Artherian Unsorted Images",
     "AI Prompt Help.md",
     "ArtheriaInteractive/ArtheriaWiki/Dungeon Master Materials/DM-Help.md",
     "ArtheriaInteractive/ArtheriaWiki/Dungeon Master Materials/DM-Notes.md",
-    "ArtheriaInteractive/ArtheriaWiki/History and Recordings/Artheria-Pre.md",
-    "ArtheriaInteractive/ArtheriaWiki/History and Recordings/AllHistory.md",
-    "ArtheriaInteractive/ArtheriaWiki/History and Recordings/Amethyst Peak History.md",
     "DnDNotesAnimalKingdomvsStrengthBrigadeApril7.md",
     "ArtheriaInteractive/ArtheriaWiki/Characters and Groups/Kori of Ranlean.md",
     "ArtheriaInteractive/ArtheriaWiki/Characters and Groups/Darkwater Family.md",
@@ -168,15 +183,8 @@
     "AuthorshipWork/RandomIdeastoExploreatNight.md",
     "AuthorshipWork/DreamGame.md",
     "AuthorshipWork/TheOthersideofPoverty.md",
-    "ArtheriaInteractive/ArtheriaWiki/Lore of Creatures and Systems/Table-100-Points-of-the Aether.md",
-    "ArtheriaInteractive/ArtheriaWiki/History and Recordings/NewDawn.md",
     "ArtheriaInteractive/ArtheriaWiki/History and Recordings/PendragonLineage.md",
     "ArtheriaInteractive/ArtheriaWiki/History and Recordings/HistoryVarious.md",
-    "ArtheriaInteractive/ArtheriaWiki/History and Recordings/CurrentEra.md",
-    "ArtheriaInteractive/ArtheriaWiki/Stories and Tales (Sessions)/Biliran Scorched Earth.md",
-    "ArtheriaInteractive/ArtheriaWiki/Dungeon Master Materials/Aether-System.md",
-    "ArtheriaInteractive/ArtheriaWiki/Dungeon Master Materials/118 Elements.md",
-    "ArtheriaInteractive/ArtheriaWiki/Characters and Groups/Xantara.md",
     "ArtheriaInteractive/ArtheriaWiki/Lore of Creatures and Systems",
     "ArtheriaInteractive/ArtheriaWiki/Dungeon Master Materials",
     "ArtheriaInteractive/ArtheriaWiki/History and Recordings",
