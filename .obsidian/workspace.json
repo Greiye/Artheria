@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "053de6ca2644df26",
+        "id": "8f7dd67948cc941c",
         "type": "tabs",
         "children": [
           {
-            "id": "174fc28eb298a28b",
+            "id": "540d517e44d2f015",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ArtheriaInteractive/ArtheriaWiki/Lore of Creatures and Systems/Races.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ArtheriaInteractive/ArtheriaWiki/Lore of Creatures and Systems/Races.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ArtheriaInteractive/ArtheriaWiki/Lore of Creatures and Systems/Races.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "ArtheriaInteractive/ArtheriaWiki/Lore of Creatures and Systems/Races.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -146,13 +138,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "174fc28eb298a28b",
+  "active": "540d517e44d2f015",
   "lastOpenFiles": [
+    "AuthorshipWork/TheOthersideofPoverty.md",
+    "Mechapunk.md",
+    "How to make a world feel alive.md",
+    "Mikey Tabletop Idea.md",
+    "Games are here to improve your life, not distract from it.md",
+    "Hybrid TTRPG.md",
+    "DnDNotesAnimalKingdomvsStrengthBrigadeApril7.md",
+    "GridPaperBackground.png",
+    "Prototype.png",
+    "AuthorshipWork/Story-Junkworld.md",
+    "AuthorshipWork/Resume.md",
+    "AuthorshipWork/RandomIdeastoExploreatNight.md",
+    "AuthorshipWork/PhilippinePixelisometric.png",
+    "AuthorshipWork/OrganizationMkI.png",
+    "AuthorshipWork/DreamGame.md",
+    "ArtheriaInteractive/ArtheriaWiki/Lore of Creatures and Systems/Races.md",
     "Artherian Unsorted Images/DALL·E 2024-07-26 10.59.37 - A detailed image featuring Tieflings based on the provided description. Tieflings are humanoid, with heights ranging from tall like elves to short lik.webp",
     "Artherian Unsorted Images/DALL·E 2024-07-26 10.55.50 - A detailed image featuring Tieflings based on the provided description. Tieflings are humanoid, with heights ranging from tall like elves to short lik.webp",
     "Artherian Unsorted Images/Tieflings.png",
     "ArtheriaInteractive/ArtheriaWiki/Lore of Creatures and Systems/Table-100-Points-of-the Aether.md",
-    "ArtheriaInteractive/ArtheriaWiki/Lore of Creatures and Systems/Races.md",
     "ArtheriaInteractive/ArtheriaWiki/Lore of Creatures and Systems/Monsters-and-Creature-Types.md",
     "ArtheriaInteractive/ArtheriaWiki/Lore of Creatures and Systems/Magic-and-Systems.md",
     "ArtheriaInteractive/ArtheriaWiki/History and Recordings/NewDawn.md",
@@ -164,27 +171,12 @@
     "Artherian Unsorted Images/Various_Types_of_Elves.png",
     "Artherian Unsorted Images/Whitewash_River.png",
     "Artherian Unsorted Images/Tiefling_Village.png",
-    "Artherian Unsorted Images/Sornes_Village.png",
-    "Artherian Unsorted Images/Elves_Populace.png",
-    "Artherian Unsorted Images/Dragonborn_Populace.png",
-    "Artherian Unsorted Images/DALL·E 2024-07-26 08.12.56 - The Adventurer's Guild in action, exploring the Iceless Frontier after the end of Artheria's Ice Age. Adventurers are helping to build communities, or.webp",
-    "Artherian Unsorted Images/DALL·E 2024-07-26 08.10.05 - A book cover image for a fantasy novel based on the settings described in the Artheria-Pre.md file. The cover features a mystical land with ancient fl.webp",
     "Artherian Unsorted Images",
     "AI Prompt Help.md",
     "ArtheriaInteractive/ArtheriaWiki/Dungeon Master Materials/DM-Help.md",
     "ArtheriaInteractive/ArtheriaWiki/Dungeon Master Materials/DM-Notes.md",
-    "DnDNotesAnimalKingdomvsStrengthBrigadeApril7.md",
     "ArtheriaInteractive/ArtheriaWiki/Characters and Groups/Kori of Ranlean.md",
     "ArtheriaInteractive/ArtheriaWiki/Characters and Groups/Darkwater Family.md",
-    "ArtheriaInteractive/ArtheriaWiki/Characters and Groups/Characters.md",
-    "ArtheriaInteractive/ArtheriaWiki/Characters and Groups/Candor Nockcrest.md",
-    "AuthorshipWork/Story-Junkworld.md",
-    "AuthorshipWork/Resume.md",
-    "AuthorshipWork/RandomIdeastoExploreatNight.md",
-    "AuthorshipWork/DreamGame.md",
-    "AuthorshipWork/TheOthersideofPoverty.md",
-    "ArtheriaInteractive/ArtheriaWiki/History and Recordings/PendragonLineage.md",
-    "ArtheriaInteractive/ArtheriaWiki/History and Recordings/HistoryVarious.md",
     "ArtheriaInteractive/ArtheriaWiki/Lore of Creatures and Systems",
     "ArtheriaInteractive/ArtheriaWiki/Dungeon Master Materials",
     "ArtheriaInteractive/ArtheriaWiki/History and Recordings",
