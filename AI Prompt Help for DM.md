@@ -1,5 +1,5 @@
 
-Consistent Art Style
+Consistent Art Style Prompt.
 
 | Scenario                                | Prompt Keywords and Phrases                                                                        |
 |-----------------------------------------|-----------------------------------------------------------------------------------------------------|
@@ -149,3 +149,25 @@ Races
 | Allies            | [Races or groups they are allied with]           |
 | Enemies           | [Races or groups they are in conflict with]      |
 
+Worldbuilding Tips
+- **Ignoring Diversity**: Incorporate various cultures, languages, and architectural styles to enrich your world.
+    
+- **Ignoring Environmental Impacts**: Consider how events like deforestation or dark entities affect ecosystems and surrounding areas.
+    
+- **Oversimplifying Conflict**: Avoid black-and-white conflict. Develop complex motivations for heroes and villains.
+    
+- **Neglecting Everyday Life**: Include mundane activities and daily life to make your world feel lived-in and realistic.
+    
+- **Glossing Over History**: Provide a detailed history with significant events and figures that shape the present world.
+    
+- **Underdeveloped Geography**: Create diverse and believable landscapes. Consider how geography impacts culture and trade.
+    
+- **Stereotyping Races and Species**: Avoid typical fantasy stereotypes. Innovate or add unique traits to races and species.
+    
+- **Ignoring Consequences of History**: Show how historical events continue to influence current societies and conflicts.
+    
+- **Ignoring Impacts of Magic**: Explore how magic affects society, government, and daily life, considering power imbalances and changes.
+    
+- **Not Exploring Cultural Interactions**: Develop interactions between different cultures to create rich exchanges or tensions.
+    
+- **Thinking Too Much About History**: Don’t get bogged down by excessive historical details irrelevant to the current campaign. Focus on what's relevant to your story and players.

@@ -8,18 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "910de95715b8749a",
+            "id": "c6ec792f51eeee76",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AuthorshipWork/A Taste of my World.md",
+                "file": "ArtheriaInteractive/ArtheriaWiki/Artheria Wiki Main.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "26c583f5a2df2833",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ArtheriaInteractive/ArtheriaWiki/History and Recordings/PendragonLineage.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AuthorshipWork/A Taste of my World.md",
+                "file": "ArtheriaInteractive/ArtheriaWiki/History and Recordings/PendragonLineage.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AuthorshipWork/A Taste of my World.md",
+                "file": "ArtheriaInteractive/ArtheriaWiki/History and Recordings/PendragonLineage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AuthorshipWork/A Taste of my World.md"
+                "file": "ArtheriaInteractive/ArtheriaWiki/History and Recordings/PendragonLineage.md"
               }
             }
           }
@@ -146,49 +159,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "floating": {
-    "id": "a6f2ef6c5e7b0643",
-    "type": "floating",
-    "children": [
-      {
-        "id": "75652c0d7770a08c",
-        "type": "window",
-        "children": [
-          {
-            "id": "290e735d06d31482",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "7f6142cd31596f3c",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "AuthorshipWork/A Taste of my World.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 494,
-        "y": 1102,
-        "width": 642,
-        "height": 918,
-        "maximize": false,
-        "zoom": 0.5
-      }
-    ]
-  },
-  "active": "910de95715b8749a",
+  "active": "26c583f5a2df2833",
   "lastOpenFiles": [
+    "ArtheriaInteractive/ArtheriaWiki/History and Recordings/AllHistory.md",
+    "ArtheriaInteractive/ArtheriaWiki/History and Recordings/Amethyst Peak History.md",
+    "ArtheriaInteractive/ArtheriaWiki/History and Recordings/Artheria-Pre.md",
+    "Ravnica Survivors.md",
+    "ArtheriaInteractive/ArtheriaWiki/Artheria Wiki Main.md",
+    "AI Prompt Help for DM.md",
+    "ArtheriaInteractive/ArtheriaWiki/Lore of Creatures and Systems/Races.md",
+    "ArtheriaInteractive/ArtheriaWiki/Stories and Tales (Sessions)/The-Scorpion-and-the-Rancher.md",
+    "ArtheriaInteractive/ArtheriaWiki/Lore of Creatures and Systems/Monsters-and-Creature-Types.md",
+    "ArtheriaInteractive/ArtheriaWiki/Lore of Creatures and Systems/Magic-and-Systems.md",
+    "Video Game to Story.md",
+    "ArtheriaInteractive/ArtheriaWiki/Geography.md",
+    "ArtheriaInteractive/ArtheriaWiki/Mystical-Artifacts.md",
+    "ArtheriaInteractive/ArtheriaWiki/The-World-of-Artheria.md",
+    "ArtheriaInteractive/ArtheriaWiki/History and Recordings/CurrentEra.md",
+    "AuthorshipWork/A Taste of my World.md",
     "AuthorshipWork/Master Fiction Spreadsheet.md",
     "ArtheriaInteractive/Twoshot Rough Draft.md",
     "AuthorshipWork/TheOthersideofPoverty.md",
-    "AuthorshipWork/A Taste of my World.md",
     "AuthorshipWork/Story-Junkworld.md",
     "AuthorshipWork/Settings.md",
     "AuthorshipWork/Resume.md",
@@ -197,16 +188,6 @@
     "AuthorshipWork/Mikey Tabletop Idea.md",
     "AuthorshipWork/Items.Weapons.Etc..md",
     "AuthorshipWork/Low Orbit Space.md",
-    "AuthorshipWork/Hybrid TTRPG.md",
-    "AuthorshipWork/How to make a world feel alive.md",
-    "AuthorshipWork/Hacking.md",
-    "AuthorshipWork/DreamGame.md",
-    "AuthorshipWork/Solo Play.md",
-    "AuthorshipWork/Mechs.md",
-    "AuthorshipWork/Mechapunk.md",
-    "AI Prompt Help.md",
-    "AuthorshipWork/Vehicles.md",
-    "ArtheriaInteractive/DnDNotesAnimalKingdomvsStrengthBrigadeApril7.md",
     "Prototype.png",
     "ArduinoSprite.png",
     "Artherian Unsorted Images/Aether_Storm.png",
@@ -216,11 +197,6 @@
     "Artherian Unsorted Images/DALL·E 2024-07-26 08.07.20 - A depiction of a primordial, mystical land called 'The First World'. The landscape is ancient with towering, otherworldly flora and fauna. Shapeless s.webp",
     "Artherian Unsorted Images/DALL·E 2024-07-26 08.07.24 - Giants in their natural habitat, living in the Stone Age. Massive figures with six fingers and round ears, hunting colossal beasts. Rugged terrain wit.webp",
     "Artherian Unsorted Images/Whitewash_River.png",
-    "ArtheriaInteractive/The Jury.md",
-    "Games are here to improve your life, not distract from it.md",
-    "ArtheriaInteractive/ArtheriaWiki/Lore of Creatures and Systems/Races.md",
-    "ArtheriaInteractive/ArtheriaWiki/Lore of Creatures and Systems/Table-100-Points-of-the Aether.md",
-    "ArtheriaInteractive/ArtheriaWiki/Lore of Creatures and Systems/Monsters-and-Creature-Types.md",
     "Artherian Unsorted Images",
     "ArtheriaInteractive/ArtheriaWiki/Lore of Creatures and Systems",
     "ArtheriaInteractive/ArtheriaWiki/Dungeon Master Materials",
