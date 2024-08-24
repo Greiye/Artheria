@@ -1,0 +1,18 @@
+{
+	"nodes":[
+		{"id":"effd6bb35654ac9a","type":"text","text":"Smog, Toxins","x":20,"y":-260,"width":250,"height":60},
+		{"id":"749695fdb8465c58","type":"text","text":"Fly over the ocean","x":-280,"y":-260,"width":250,"height":60},
+		{"id":"ebb502ec8039837d","type":"text","text":"Caerne","x":-600,"y":-260,"width":250,"height":60},
+		{"id":"66e994f2cf8705b2","type":"text","text":"History\n-  Modern Society of magic users. A few countries.\n- Mana powers the world\n- Mana Harvest Farms, Mana Nets Mana recyclers. Many ways to collect it.\n- Best way is by mana crystals. very unpredictable material.\n- Create a society that digs. Turned beautiful landscape into dustbowl.\n- City of Hera, once known for grapes and weather, turned into digging operations.\n- Hot weather. inhospitable.\n- City People were smart. used the dig site to build society underneath. naturally cool. Used the transportability of mana well. Underground utopia.\n- Bomb of Some kind. Destroys all societies except the city of Hera.\n- Smoke never clears. top side is ash. Neverending weather is dubbed the storm of Jupiter.\n- People stuck in the Inland Empire, the bowels of Hera.\n- The city still bears many regal places. Lots of Queens and statues, from the forgotten past of the old world.\n- Digging mechs repurposed. they're dubbed clever titles like throne, kingsframes, always alluding to Hera.\n- Now people fight for survival. can't leave.\n- bomb leaked down. Water's tainted. Every spellcaster was affected. No once can use it anymore without hurting themselves\n- Aethermancers became celebrities. The few people that couldn't use mana in the past had to resort to learning how to tap into it outside of their body.\n- Now they're widely sought after. They lead teams deeper into the city. Where they can find resources. Warehouses of material.","x":360,"y":-140,"width":1180,"height":620},
+		{"id":"cdd2c8b03e7eca1b","type":"text","text":"City of **Hera**\nThe Setting of Aetherscrap ","x":360,"y":-275,"width":250,"height":90},
+		{"id":"8bfced12e46f3b72","type":"text","text":"A crack in the cround that leads down into Hera","x":220,"y":-420,"width":200,"height":120},
+		{"id":"822444223a73ba40","type":"file","file":"Manascrap/DALL·E 2024-08-06 18.25.09 - An abandoned tower in the heart of a forgotten city, overgrown with dense forest and vines. The tower is weathered but still formidable, with broken w.webp","x":610,"y":-414,"width":400,"height":229}
+	],
+	"edges":[
+		{"id":"b8ee008773a1e740","fromNode":"ebb502ec8039837d","fromSide":"right","toNode":"749695fdb8465c58","toSide":"left"},
+		{"id":"8f3f3d5450bdadd8","fromNode":"749695fdb8465c58","fromSide":"right","toNode":"effd6bb35654ac9a","toSide":"left"},
+		{"id":"9f0a3e7749965405","fromNode":"effd6bb35654ac9a","fromSide":"right","toNode":"cdd2c8b03e7eca1b","toSide":"left"},
+		{"id":"f8d773b45d3f5b40","fromNode":"effd6bb35654ac9a","fromSide":"top","toNode":"8bfced12e46f3b72","toSide":"left"},
+		{"id":"332c08d0c09ff864","fromNode":"8bfced12e46f3b72","fromSide":"right","toNode":"cdd2c8b03e7eca1b","toSide":"top"}
+	]
+}
