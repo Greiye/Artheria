@@ -1,4 +1,3 @@
-#### Mission Start
 For reasons outside of your control, you and a handful of other Initiates have joined this mercenary guild: 
 
 **The Caerne.**

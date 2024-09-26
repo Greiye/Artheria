@@ -33,6 +33,8 @@ He gestures toward the young catfolk behind him and the Elven woman standing nea
 "This is **Hawk**, our scout. The irony of his name and his feline grace is not lost on me. You've all seen **Anna**, she was in her own mechanized carriage ahead of us. She's our herald and spokesperson; I suppose some may call her our bard."
 
 Anna offered a polite curtsy from a distance.
+Anna is a gorgeous Elven woman in white loose robes. She moves slowly and elegantly.
+
 
 Yarl addresses the group again. "Anna will stay here in the castle to keep an eye on our camp and supplies. The rest of us are on the sortie to the beach. We won’t be sightseeing; we leave immediately."
 
@@ -2964,13 +2966,16 @@ If anything, tell her lies. Tell her we're going to some fictional town on the E
 
 Anything you tell her, King Carmine will learn as well. Best use that to throw them off our trail."
 
+Ugh. We should have brought the crutches.
 
+Derby, help Kayla out. I know I said I would support her until we returned to our chambers, but things have changed.
 
+Kaelrith moves to be supported by Derby.
 
-
-
-
-
+Derby
+"Hmm maybe I can construct something for you, a seat, but with mobility..."
+He glances at Iron-Tails savior band.
+"Or better yet... some kind of assisted scaffolding... but for people..."
 
 
 
