@@ -1,11 +1,11 @@
 
-Physical Appearance
+## Physical Appearance
 
 
 
 Dr.Derby is a man in his early 40s, with a clean-shaven face and neatly trimmed short hair, accentuated by small, round spectacles perched on his nose, hinting at a sharp intellect beneath. His attire is striking, He wears a long white overcoat that drapes down to conceal a suit of studded leather armor and apron that along his large, weathered gloves are stained with a permanent dark hue of dried blood, an unsettling reminder of his craft. Derby moves with quiet precision, always accompanied by a sturdy leather suitcase and a well-worn backpack brimming with the tools of his trade.
 
-Backstory: 
+## Backstory: 
 
 Derby Chadwick Merriweather is an eccentric and unstable figure, yet his brilliance in his field is undeniable. Due to his erratic behavior and questionable methods, he is often sought as a last resort by nobles suffering from rare or incurable diseases. His treatments are infamous for their unconventional and often grotesque nature, which is why only the most desperate seek his help.
 
@@ -21,6 +21,16 @@ The chosen property lasts indefinitely. As an action, you can touch the object a
 
 You can bestow magic on multiple objects, touching one object each time you use this feature, though a single object can only bear one property at a time. The maximum number of objects you can affect with this feature at one time is equal to your Intelligence modifier (minimum of one object). If you try to exceed your maximum, the oldest property immediately ends, and then the new property applies.
 
+Battle Stats
+
+| Stat/Feature            | Description                                                                                                                                                                                                                                                          | Goblin Adventure 1    | Additional Desc.                                                                                                                                 |
+| ----------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Healer Kits             | 12 uses/kit.                                                                                                                                                                                                                                                         | 2 kits at the moment. | 1/2 price for the kits<br><br>2.5GP<br>                                                                                                          |
+| Initiative Roll Ad.     |                                                                                                                                                                                                                                                                      |                       |                                                                                                                                                  |
+| Speedy Healing Drag     |                                                                                                                                                                                                                                                                      |                       |                                                                                                                                                  |
+| Medic Training          | Cost:<br>- 1 healer's kit <br>-  spell slot, <br><br>Effect<br>- Heal 2d4+Spell Slot Level<br>7d4 Max<br><br>                                                                                                                                                        |                       | On Touch                                                                                                                                         |
+| Create a Medicinal Dose | 5 uses Healer's Kit<br>Spell Slot<br><br>One Potential Effects<br><br>Temp Hit Points<br><br>Heals (Spell Slot Level)d6+Int<br><br>Advantage of Ability Checks/Saving Throws, rounds equal to slot used<br><br>Damage Resistance equal to number of spell slots used |                       | Lvl 3<br><br>Lasts 1 day max.<br><br>Bonus action to use.<br><br>When at a certain level, can use INT modifier limit to not expend a spell slot. |
+|                         |                                                                                                                                                                                                                                                                      |                       |                                                                                                                                                  |
 
 # **Infuse Item**
 At 2nd level, you've gained the ability to imbue mundane items with certain magical infusions, turning those objects into magic items.
@@ -28,7 +38,7 @@ At 2nd level, you've gained the ability to imbue mundane items with certain magi
 ## **Infusions Known**
 
 - Replicate Magic Item
-Using this infusion, you replicate a particular magic item. : Protethic limbs
+Using this infusion, you replicate a particular magic item. : Prosthetic limbs
 
 - Enhanced Weapon
 Item: A simple or martial weapon

@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "f6170dc28f61c75b",
+        "id": "2f12394d55af35d8",
         "type": "tabs",
         "children": [
           {
-            "id": "c6ec792f51eeee76",
+            "id": "0bec290269ac2e43",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ArtheriaInteractive/ArtheriaWiki/Artheria Wiki Main.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "26c583f5a2df2833",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ArtheriaInteractive/ArtheriaWiki/History and Recordings/PendragonLineage.md",
+                "file": "The Caernes March/The Caerne's March Novel Act 1.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ArtheriaInteractive/ArtheriaWiki/History and Recordings/PendragonLineage.md",
+                "file": "The Caernes March/The Caerne's March Novel Act 1.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ArtheriaInteractive/ArtheriaWiki/History and Recordings/PendragonLineage.md",
+                "file": "The Caernes March/The Caerne's March Novel Act 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ArtheriaInteractive/ArtheriaWiki/History and Recordings/PendragonLineage.md"
+                "file": "The Caernes March/The Caerne's March Novel Act 1.md"
               }
             }
           }
@@ -147,7 +134,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -159,54 +147,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "26c583f5a2df2833",
+  "active": "0bec290269ac2e43",
   "lastOpenFiles": [
+    "The Caernes March/The Caerne's March Novel Act 1 Author.md",
+    "The Caernes March/The Caerne's March Novel Act 1.md",
+    "TheMech1.png",
+    "asdaasdad.jpg",
+    "The Caernes March/Dr. Derby.md",
+    "The Caernes March/The Caerne's March Novel Act 0.md",
+    "The Caernes March/The Caerne's March Novel Act 0 AI and 2nd Draft.md",
+    "The Caernes March/Iron-Tail.md",
+    "Characters/Yarl.md",
+    "Untitled/Screenshot 2024-08-24 092409.png",
+    "Untitled/Personality Roll Table.md",
+    "Untitled/c-1000-designbundle-forest-in-anime-style05-18-08-21eb82747caca672d306792c1737245b7095132da30f9bab71d81b0160562203.jpg",
+    "Untitled/AI Prompt Help for DM.md",
+    "Untitled/Kingdom Lore.md",
+    "Characters",
+    "The Caernes March/Notepad Tab as I write the story.md",
+    "The Caernes March/Onager.md",
+    "The Caernes March/Perchance.md",
+    "The Caernes March/Python.Table Generator.Ithink.md",
+    "Untitled/Balance Issues.md",
+    "Untitled/ezgif-4-9abf0afcf7.jpg",
+    "Untitled/ezgif-4-83feec0b27.jpg",
+    "GPT.md",
+    "Characters/Jenna Flame Dancer.md",
+    "Untitled/q5pire7g.bmp",
+    "Throwables and DnD.md",
+    "Untitled",
+    "ArtheriaInteractive/ArtheriaWiki/Artheria Wiki Main.md",
+    "AuthorshipWork/Ravnica Survivors.md",
+    "AuthorshipWork/Video Game to Story.md",
+    "ArtheriaInteractive/ArtheriaWiki/History and Recordings/PendragonLineage.md",
     "The Caernes March/Rolegate Encounter 1/Screenshot 2024-08-22 010426.png",
     "The Caernes March/Rolegate Encounter 1/Screenshot 2024-08-22 010414.png",
     "The Caernes March/Rolegate Encounter 1/Screenshot 2024-08-22 010404.png",
-    "The Caernes March/Rolegate Encounter 1/Screenshot 2024-08-22 010350.png",
-    "The Caernes March/The Caerne's March Novel Act 1.md",
-    "The Caernes March/The Caerne's March Novel Act 0.md",
-    "The Caernes March/The Caerne's March Novel Act 0 AI and 2nd Draft.md",
     "The Caernes March/Rolegate Encounter 1",
-    "The Caernes March/Python.Table Generator.Ithink.md",
-    "The Caernes March/Perchance.md",
-    "The Caernes March/Onager.md",
-    "The Caernes March/Notepad Tab as I write the story.md",
-    "The Caernes March/Iron Tail.md",
-    "The Caernes March/GPT.md",
-    "The Caernes March/Dr. Derby.md",
     "The Caernes March/ChatGPT Proofing Tags.md",
     "The Caernes March/Caernes March Text Renpy.md",
     "The Caernes March",
     "Manascrap/Why write this.md",
-    "Manascrap/The Domain Controller and other bits.md",
-    "Manascrap/Setting.md",
-    "Manascrap/Manascrap; A Novel 2024.md",
-    "Manascrap/Manascrap Sources.md",
-    "Manascrap/DALL·E 2024-08-06 18.25.09 - An abandoned tower in the heart of a forgotten city, overgrown with dense forest and vines. The tower is weathered but still formidable, with broken w.webp",
     "Manascrap/Canvas.canvas",
     "Manascrap",
-    "ArtheriaInteractive/ArtheriaWiki/History and Recordings/AllHistory.md",
-    "ArtheriaInteractive/ArtheriaWiki/History and Recordings/Amethyst Peak History.md",
-    "ArtheriaInteractive/ArtheriaWiki/History and Recordings/Artheria-Pre.md",
-    "Ravnica Survivors.md",
-    "ArtheriaInteractive/ArtheriaWiki/Artheria Wiki Main.md",
-    "AI Prompt Help for DM.md",
-    "ArtheriaInteractive/ArtheriaWiki/Lore of Creatures and Systems/Races.md",
-    "ArtheriaInteractive/ArtheriaWiki/Stories and Tales (Sessions)/The-Scorpion-and-the-Rancher.md",
-    "AuthorshipWork/OrganizationMkI.png",
-    "Prototype.png",
-    "ArduinoSprite.png",
-    "Artherian Unsorted Images/Aether_Storm.png",
-    "Artherian Unsorted Images/71ywBM3YnUL._SL1500_.jpg",
-    "Artherian Unsorted Images/Aureya_Dead_City.png",
     "Artherian Unsorted Images",
     "ArtheriaInteractive/ArtheriaWiki/Lore of Creatures and Systems",
     "ArtheriaInteractive/ArtheriaWiki/Dungeon Master Materials",
     "ArtheriaInteractive/ArtheriaWiki/History and Recordings",
-    "ArtheriaInteractive/ArtheriaWiki/Stories and Tales (Sessions)",
-    "ArtheriaInteractive/ArtheriaWiki/Settlements and Locations",
-    "ArtheriaInteractive/ArtheriaWiki/Characters and Groups"
+    "ArtheriaInteractive/ArtheriaWiki/Stories and Tales (Sessions)"
   ]
 }

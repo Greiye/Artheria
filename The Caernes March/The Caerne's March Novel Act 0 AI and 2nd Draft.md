@@ -1,5 +1,4 @@
 #### Act Zero
-
 ---
 
 "As one prepares for their next move, they sense the **cosmos** aligning, hinting that fortune—or misfortune—is about to unfold." - _The Icosahedral Fates_

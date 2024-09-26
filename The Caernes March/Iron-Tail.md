@@ -2,7 +2,7 @@ Iron-Tail is a black-furred Nezumi—known as ratfolk to outsiders—who takes g
 
 For most of her life, Iron-Tail was content scavenging the swamps for valuables and cultivating the land for food. It was hard, honest work, and she found satisfaction in it. Lacking the intellect to pursue higher education and raised by her heretical but loving parents to be an iconoclast, Iron-Tail was never pious enough to ascend the Nezumi hierarchy. Instead, she accepted her role as a farmer, living a simple, happy life.
 
-That changed one fateful day when a **monstrous beast with acidic saliva** invaded her swamp, rampaging through the village she called home. Driven by fear and a sense of duty, Iron-Tail sprang into action, armed with nothing but a shovel. She fought the creature fiercely, dodging its acidic attacks and landing blow after blow. Her bravery and quick thinking saved the village. In recognition of her heroism, she was knighted during the ensuing celebration.
+That changed one fateful day when a **monstrous beast with acidic saliva** invaded her swamp, rampaging through the village she calls home. Driven by fear and a sense of duty, Iron-Tail sprang into action, armed with nothing but a shovel. She fought the creature fiercely, dodging its acidic attacks and landing blow after blow. Her bravery and quick thinking saved the village. In recognition of her heroism, she was knighted during the ensuing celebration.
 
 Iron-Tail felt the weight of her new responsibilities and the expectations of others pressing upon her. Yet, this burden felt strangely comfortable, for she believed that in a world without gods, it was heroes who were needed most.
 
@@ -68,10 +68,12 @@ In addition, when you summon your mech, choose a model. Each model has a special
 . Grants you the ability to use the S.M.I.T.E. Laser Cannon. As a bonus action, you spend one Charge to fire the laser. The laser has a range of 60/180, uses your STR/DEX/or CHA modifier for the attack roll, and deals 2d6+CHA mod radiant damage. You can use divine smite with this ranged attack.
 
 #### Avenger Model. 
-Grants you the ability to use Challenger Array. As a bonus action, you spend one charge to issue a challenge to a target within 30 ft. They make a CHA saving throw, and if they fail, they cannot attack anyone but you. If they miss their attack, you get an attack of opportunity.
+Grants you the ability to use **Challenger Array**. 
+As a bonus action, you spend one charge to issue a challenge to a target within 30 ft.
+They make a CHA saving throw, and if they fail, they cannot attack anyone but you. If they miss their attack, you get an attack of opportunity.
 
 #### Defender Model
-. Grants you the ability to use Ablative Field. As a bonus action, you spend one charge to grant yourself Barrier Points equal to 10+Xd8, where X is your CHA modifier.
+Grants you the ability to use **Ablative Field**. As a bonus action, you spend one charge to grant yourself Barrier Points equal to 10+Xd8, where X is your CHA modifier.
 
 #### Excavator Model
 . Grants you the ability to use the Giga Excavator Drill, a martial weapon that deals 1d8 piercing damage and if it hits an object, the hit is automatically a critical hit. This drill counts as a +1 magical weapon. As a bonus action, you can spend a charge to rev up the drill, adding 2d8 to the damage until you hit a target with it.

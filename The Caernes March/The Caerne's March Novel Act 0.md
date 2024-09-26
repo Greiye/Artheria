@@ -377,7 +377,7 @@ With a grim smile, Onager unfolds his arms and gives a decisive nod.
 
 They charge at you with weapons drawn. In the chaos, swords slice through the air as you nimbly dodge and counter with precision strikes that could be lethal if you chose. Arrows and bolts whiz by, some of them dangerously close. You deftly roll and duck, evading the onslaught with an almost supernatural agility.
 
-Despite your imposing size, you manage to tuck and roll with remarkable speed, quickly regaining your feet. Your impressive maneuvers draw curious glances from those around you.
+Despite your imposing size, you manage to tuck and roll with remarkable speed, quickly regaining your footing. Your impressive maneuvers draw curious glances from those around you.
 
 The commotion stirs the camp, rousing those who had been sleeping. They join the brawl, adding to the chaos.
 
@@ -389,6 +389,7 @@ Onager turns to you with a grim expression.
 
 "I'd hang you myself now if I didn’t want to see you squirm as you explain yourself to Yarl."
 
+"No need to wait."
 As if on cue, Yarl approaches. Onager steps aside, giving Yarl a respectful nod.
 
 "I've known about this traitor's plans for some time," Onager says, bowing slightly to Iron-Tail. "It's easy to spot a threat when they're brandishing their swords. This one has a sharp tongue—his true weapon—but lacks the wit to match."
@@ -420,19 +421,25 @@ He smirks. "Can’t fault you. I would’ve come back with an even bigger group.
 
 "What’s your name, greenskin? At least give me your full Orcish name. You owe me that much."
 
+
+"Onager Caerne."
 Onager steps up behind him, grabbing his shoulder and a handful of hair. With a swift, violent motion, he snaps the half-orc’s neck. The body dangles from the tree, the neck extending as his toes barely graze the grass.
 
 The two remaining conspirators fall to their knees, praying desperately. They recognize the futility of their situation.
 
 Yarl looks on with a face of distaste. He approaches the two survivors, cutting their bonds.
 
-"I watched Torgon as I did Big Rupert. I know he was the mastermind. You two were just misled. Probably thought 'strength in numbers,' right? If I see either of you again—anywhere—I’ll break you, then and there. Best you become sailors if you want to guarantee your safety."
+"I watched Torgon as I did Big Rupert. I know he was the mastermind. You two were just misled. Probably thought 'strength in numbers,' right? 
+
+...If I see either of you again—anywhere—I break you. Then and there.
+
+Best you become sailors if you want to guarantee your safety."
 
 The two flee, one leaving a trail of urine in his wake.
 
 Yarl senses Onager's presence behind him. 
 
-"...It was the right decision, friend. Whatever god they prayed to found mercy today."
+"...It was the right decision, friend. Whatever god they prayed to found mercy in metoday."
 
 He turns to you.
 
@@ -444,7 +451,8 @@ Yarl continues, "I’m sorry we couldn’t reach more of them. I knew what would
 
 Yarl looks at the hanging body and then to you, a sense of resolve in his eyes.
 
-"We’re mercenaries. For every good recruit, there’s eleven bad ones. These lot needed only a silver piece and a tankard to be swayed."
+"We’re mercenaries.
+For every good recruit, there’s eleven bad ones to complete the dozen. These lot needed only a silver piece and a tankard to be swayed."
 
 "You did well—better than good."
 
@@ -473,20 +481,20 @@ Onager motions towards the remaining camp members.
 #### 2 Iron Tail and a New Friend
 A few days have passed since Torgon's Uprising. Everyone's had to pull double shift to make up for the lack of manpower.
 
-Yarl's been running around, managing the camp as per usual, as well as conducting interviews. He's visibly tired.
+Yarl's been running around, managing the camp as per usual, while conducting interviews.
+He's visibly tired.
 
 He approaches Iron-Tail with a form on a clipboard and a quill of ink.
 
-@Iron-Tail#283774 Iron Tail. Glad I caught you.
+Iron Tail. Glad I caught you.
 
 You, Derby and Onager have been pulling your weight around here, and then some. It's been a blessing.
 
 As per when I created this band, I wanted everyone to chip in. This means chipping in recruitment thoughts as well.
 
-@Iron-Tail#283774 His eyes are sunken as he hands the clipboard to you. He's tired.
+His eyes are sunken as he hands the clipboard to you. He's tired.
 
 The form is a list of potential recruits.
-
 You read through it.
 
 1. Ravenna "Shade" Valek
@@ -496,19 +504,19 @@ You read through it.
 5. Lyra "Spark" Emberwind Role: Demolition Expert and Pyromancer
 
 
-Torgon planned to take over, yes, but he was also a natural born businessmen. He got us discounts on wares from merchants who wouldn't tell me the time of day. Maybe we need someone like him again.
+"Torgon planned to take over, yes, but he was also a natural born businessmen. He got us discounts on wares from merchants who wouldn't tell me the time of day. Maybe we need someone like him again.
 
 Or maybe a sniper arbalist type. Derby's told me a story of how one pinned him down for a few days. That's a useful addition.
 
 You tinker all day. Maybe we can hire someone with mechanical know how?
 
-Up to you.
+Up to you."
 
 You sense that Yarl is tired, and will probably approve of who you decided to hire on.
 
 Oh, there's more recruits on the following pages. You've got about 20 recruits in total, about. 4 pages.
 
-If you need someone to help smooth things over with clients, I could always lend a hand. My swampy charms lend a bit of weight to negotiations.
+"If you need someone to help smooth things over with clients, I could always lend a hand. My swampy charms lend a bit of weight to negotiations."
 
 Iron flips through the entire booklet of recruits, just to be through. Wouldn't want to miss someone just because they were all the way in the back!
 
@@ -532,23 +540,24 @@ Kael the Sniper/Tracker.
 
 and Gilda, the Arcane Metalworker.
 
-I see, I see.
+"I see, I see."
 
 He sighs. Not out of anything bad, He's simply tired. He's got uneven stubble and red eyes.
 
-I'll see if I can get a hold of them.
+"I'll see if I can get a hold of them."
 
-Have you been getting enough sleep lately Yarl? If you need us to shoulder the burden, we're more than happy to help out.
+"Have you been getting enough sleep lately Yarl? If you need us to shoulder the burden, we're more than happy to help out."
 
-He looks at you. Well, more through you.
+He looks at you.
+Well, moreso through you.
 
-What did you have in mind?
+"...What did you have in mind?"
 
-Well, for starters, I could probably handle gathering and interviewing the potential candidates. Or at the very least help you split them up. Obviously, you should probably talk to them as you're the leader of this merry band of mercs. You have the final say of who gets in. But more than anything, I want you to know that we're a team, and you can rely on us.
+"Well, for starters, I could probably handle gathering and interviewing the potential candidates. Or at the very least help you split them up. Obviously, you should probably talk to them as you're the leader of this merry band of mercs. You have the final say of who gets in. But more than anything, I want you to know that we're a team, and you can rely on us."
 
 He's listening to you intently, but you can tell that the moment he so much as grazes a soft fabric, he'll pass out on the dirt.
 
-... I appreciate that. I do.
+"... I appreciate that. I do.
 
 *yawn* but the interviews have been conducted. This was my approval list.
 
@@ -560,11 +569,11 @@ You liked Jenna on paper, right? She sounds like a good combat asset?
 
 I found her in the carnival last night. She was throwing fire daggers clear across the tent. Hit every mark AND made delicious barbeque.
 
-Some people just aren't blessed to realize their true potential by themselves. They need a little push from someone who cares. Maybe we all do.
+Some people just aren't blessed to realize their true potential by themselves. They need a little push from someone who cares. Maybe we all do."
 
 He folds the paper on the clipboard and begins to walk away.
 
-I appreciate what you said. Okay, I'll depend on you just a little bit. Let me get some sleep and think about that.
+"I appreciate what you said. Okay, I'll depend on you just a little bit. Let me get some sleep and think about that."
 
 
 Have a good night Yarl. Get some sleep.
