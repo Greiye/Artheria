@@ -2977,20 +2977,202 @@ Derby
 He glances at Iron-Tails savior band.
 "Or better yet... some kind of assisted scaffolding... but for people..."
 
+@Derby#283773 Just whip up another golem like Iron-Tail's but for mobility!
+
+Derby brushes his face.
+{Another golem...}
+{additional golems for the group.... hmm......}
+
+NO.    I was just kidding.  One of those things is plenty for this world.  At least until we fully understand it.
+
+Probably not a bad idea to sort how to repair it though.  ...and clean it, it was pretty rancid.
+
+Well... I don't see anything wrong with remixing what the titan can do, especially to help our friend who's already given us so much. Let's see if we can't make an assisted living frame for Kaelrith. I'm sure there's plenty of tinkerers at Boilmarsh who can help.
+
+Sounds like a plan.
+
+No need to visit Dunbridge on my account.  Word of my presence there would only invite trouble, I'm happy to make amends in the world at large.  I'd consider returning with an army to topple the leadership but then I'd feel responsible if someone worse took over!
+
+Happy to visit Iron-Tail's home though.
+
+Oh, we're not going for an investigators return.
+
+Dunbridge just happens to be a gray area that would suit my own affairs.
+The Hags.
+If you say that a return would just put us in a bad spot... maybe another town would be best.
+... we'll cross that bridge some other time. Should we even need to cross.
+Right. We're wasting time. Gather your things, load up Frostfoot and the other horses.
+
+We came in with that driver, and luckily that puts us in a good spot. They'll be looking for his cart.
+
+Nods and heads for the stables to prepare the horses.
+Everyone departs in different directions.
+
+
+Anna and Kaelrith are the first to take action.
+They discuss the kind of illusory magic to use, and what evidence to leave as to mislead any guards that investigate.
+
+Luckily, there is a City Watch Investigator amongst them to help their cause and really 'sell the scene'.
+
+They produce 2 *Bags of Holding* which holds 1/2 of the total gold in possession. about 60,000 gold. Anna holds one, and passes the other to Onager.
+
+The rest of the gold is divided by weight onto the group's mounts and a single covered wagon. The wagon holds all the group's tents and foodstuffs. There isn't much space for battle tools or utilities.
+
+Kaelrith rides passenger on the covered wagon.
+Surprisingly, the wagon has leaf spring suspension.
+
+Anna haphazardly tosses the bag of holding at Onager's chest.
+
+Anna
+*By Yarl's word.*
+
+
+Derby offers to drive the wagon.
+
+He sighs sadly as he looks at his custom medical tent. It has to go. It needs to be burnt along with the rest of the camp to sell the scene.
+
+He packs the rest of his most used medical supplies and sheathes his cavalry sword.
+
+Jenna makes quick work of gathering her things. It may have been from her time as a carnie.
+
+With Onager's support, she sends firebolts in strategic places all throughout the empty camp, starting from the kitchen area.
+
+Even another investigator would read the scene incorrectly.
+
+Hawke and Yarl return. They are carrying burlap sacks and drenched in their sweat.
+They are wearing servant clothes. Yarl has his hair tied in a bun.
+
+Good, **lord**, that was a pain.
+
+It had to be done. Being on horseback that close to the castle would have been too suspicious. We can't take the risk.
+Are we all ready?
+
+Everyone nods.
+
+Good.
+He hands everyone a cloak. He takes a disguise kit from Hawke.
+Believe it or not, they even had your size, Onager.
+
+Anna takes the disguise kit.
+
+She begins to quietly speak to herself.
+Slowly, her appearance changes. Her hair becomes an ombre blonde-brunette, then completely brunette.
+
+Her pointed ears become rounded.
+
+Elven features slowly contort until she is no longer beautiful.
+
+She now appears to be a mid 30's human woman with some facial imperfections. freckles, a large mole, etc.
+
+Her clothes appear ragged and ratty; poorly repaired at the elbows and knees.
+
+*I've some scrolls and spells akin to this.*
+*Although, not enough for everyone.
+Hence, the kit.*
+
+We won't look anything at all like us for the next few hours.
+
+We'll leave Carmine Reach separately through all of their gates. Then reconvene at the abandoned Inn that we stayed at.
+
+King Carmine may already have agents among us.
+He looks at Onager.
+
+Orcish... The password is Tusk Love. It was a book I recently read.
+
+He then looks at Derby.
+Tusk Love. That's the password.
+
+Then at Iron-Tail.
+Tusk Love. The password, that is.
+
+Yarl has Jenna set a few more fires around the camp.
+
+He then tells everyone to depart.
+
+Onager on Frostfoot, by request, stays behind with Yarl.
+
+The group departs, leaving Yarl and Onager amongst a sea of fire.
+
+The last thing that Iron-Tail sees of the camp is Yarl talking to Onager with one hand on their mount reins each.
+
+
+-----------------------------
+...This isn't the first time I've had to fake a raze, my Orcish companion.
+
+After the fake burning, those who were looking for us *still* found us.
+...wanna know how?
+
+*...No corpses.*
+
+He begins to walk towards the one horse hitch still untouched by fire.
+
+We live in a world where the dead can be brought back to answer 5 questions.
+
+A world where you or I can read a scroll and talk to squirrels, owlbears.
+
+He ties his mount to the hitch.
+
+That sort of magic is rare. Hopefully Carmine Reach won't have anyone versed in the Old Ways. or the Dark Arts.
+
+Ugh. I don't want to do this.
+
+From a distance, Yarl takes out his longbow.
+Nocks an arrow.
+
+*Fwip*
+
+A clean shot. Behind the forelimbs and slightly to the left.
+The horse neighs a loud and powerful call before falling on its side with seizing legs.
+
+...*ugh.*
+
+If I wanted to really be thorough, I would have nocked more arrows.
+
+The others wouldn't understand this.
+I hope *you* do.
+
+An ugly man with short red hair, clad in black plate armor gets behind the Goliath man, on Frostfoot. Yarl and Onager's disguise.
+
+Let's go.
 
 
 
+-----------------------
+
+Time passes.
+
+The group successfully meet up at the abandoned Inn. Everyone repeats Yarl's passphrase with no issue.
 
 
+@Iron-Tail#283774 Oh, and before I forget:
+I did as you said. The letter's on her royal pillow. Quite posh, her Boudoir. It was a pain to bypass the guard at her door, but luckily it wasn't too far from our own chambers.
+
+So... Is that it?
+...No more Caerne?
 
 
+For our individual safety, yes.
+The Caerne must disappear for now.
 
 
+*This is not the first iteration of this group. Nor will it be the last.*
+
+Caerne's just a name. It's not the people.
+***... From this moment on, the mercenary group, Caerne, is no more.***
+
+If any of you want to make a new group name for us, I don't mind.
+
+But for now, let's get out of here. The closer we are to Boilmarsh, the better.
+
+The group collectively throw the hood of their cloaks up as some of their illusory disguises start to fade.
+
+The make their way East, to Boilmarsh. Iron-Tail's home.
+
+And with that,
+### **The Caerne's March comes to an end.**
 
 
-
-
-
+End of Act 1
 
 
 
