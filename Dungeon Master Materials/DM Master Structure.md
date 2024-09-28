@@ -1,214 +1,42 @@
-Big Then Small
 
-# Landmasses
-## Resources on the Landmasses
-	Consult the Lifecycle. Predators need prey, which need veggies, which need predators.
+2024: Consult AI to simplify everything.
 
+[[Worldbuilding - Physical Landmasses, Resources]]
+[[Worldbuilding - Reality and Ecology]]
+[[Worldbuilding - Closed System]]
+[[Societies and Sentients]]
+[[Technology and Magic - Hard or Soft]]
 
-Sentients need prey, which need veggies.
+-----------------
 
-Technology needs fuel that is a natural landmass.
+[[Character and NPC Creation]]
 
-## Closed System, Law of Energy
-Let there be 100 points, where each point is a resource of some kind.
-## Society
-There's a number of cycles that need to be planned out dependent on the resources around the society. When there's a resource close to a society, it changes. it's a constantly changing entity that would interact differently than it would in previous states.
+-------------------------
 
-Storytelling Genres - DM’s eyes.
-Medieval Fantasy - Hymlie Principality
-Well Known. Uses DnD Ruleset.
+[[Storytelling and Events]]
 
+[[How to kill your players and NPCs]]
 
-Mecha/Science Fiction - Northern Emeris
-Uses Lancer Rules.
 
-Dystopian - Starhaven
-Cyberpunk Rules.
+Rules of a DM
 
+1. Have a setting and conflict.
+2. Let the players decide the resolution
+3. Make it about the players.
 
-Mystery/Horror/Thriller Specialized - Central Emeris Swamps
-Similar to Hunt Showdown Setting.
 
-All Throughout
-Adventure
-Romance
-Mystery
-Horror
 
-Cultures to Note
-Mainly European
-Secondarily Asian
-American 1900’s Industrial
-Southern Latin
-Russian Dieselpunk
-Fictional Badlands Mad Max
-African
-Obscure Realworld Cultures (Mongolian Society, Tibet, etc.)
+-------------------------
 
+[[Friend Storytelling Request]]
 
-DM Improvement Techniques
-DM World Building and Game Running Help
-Let’s build a world together!
-Writing a Session - The Angry GM
-A campaign begins with a goal and a major event to set the PCs on the path to resolving it and it ends when that story is resolved. Arcs begin with the revelation of some particular story element and end when that element is resolved or dealt with. Adventures begin with motivations and end with resolutions. Encounters begin with the posing of a dramatic question and end when the question is answered. And even individual actions begin with a situation, the choice of an action, a resolution, and a consequence. The game is like one of those pregnant Russian dolls with a smaller pregnant Russian doll in her stomach who, herself, has a smaller pregnant Russian doll inside.
-(Mikey: This whole article is amazing and concise. I’m about to read this along with any session I plan out.
 
-Mechanics
 
-Magic’s Law of Exchange
-Much like the rule of energy conservation, magic cannot be destroyed. It can only be transferred into another form. 
-	But unlike the natural law, magic’s depth of conversion can occur on the other side of the world.
 
-100 limited entities in the world. When an entity is destroyed, it somehow is transmuted, taking another form in the world.
-Google Sheets Chart
 
-Chart
-Entity
-Description
-Points
-Portal
-Portals to planes of existence.
-5 points due to the many things that can come from outside the portal. The 5 points also act as the ‘nested limit’ before the portal closes.
-
-This means that from a single portal, a resource or item can come from it, then closes once the 5 points are exhausted.
-5±
-
-
-
-
-Resource
-Everything Stems from Resources
-
-Nesting.
-
-Settlement
-
-Race
-Joining.
-
-Group
-Joining.
-
-Creature
-Joining.
-Resource
-Materials and Food Sources
-
-
-
-Race
-
-
-Group or Large Creature
-
-
-
-Creature
-
-
-Level 4±
-
-
-Level 3±
-
-Level 3±
-
-
-Level 2±
-Level 2±
-
-
-
-Level 1±
-
-Magic Types
-Gods and Artifacts
-Nesting.
-Joining.
-Acts as a remainder
-A - Can Destroy a Portal
-B - Can Destroy a Resource/Creature/Group
-C - Can Destroy a City
-D - Can Destroy a magic item underneath it
-E - Rare Item that can turn the tide of battle
-
-5
-4
-3
-2
-1
-
-
-
-
-
-Heroes in the Balance
-Hero Level 3 - Class E
-Level 5            Class D
-Level 10          Class C
-Level 15          Class B
-Level 20          Class A
-
-Implemented Entities on a separate google docs sheet
-
-
-
-
-Things my friends have asked me for.
-Josh: Sci-Fi
-Josh Notes:
-1. More random encounters! (Talking chickens, etc.)
-2. Chances to tame animals
-3. Battles!
-4. Less (ummmmm) moments (A problem i'm actively trying to work on)
-5. In depth interactions (Cut trees! gather the wood!)
-Broski: Machine Complexity, Mechanical Game Mechanics 
-Liv: Rituals, Magic
-
-To Include in your game
-The Main Character’s Endeavor
-The Conflicts and Testing of their Endeavor
-Testing their character through fun game mechanics of combat, social issues and traps as problems to solve.
-Show, don’t tell, the lore that you’re writing. NEVER LORE DUMP
-The Resolution of succeeding or failing in their quest.
-
-Link: How to Kill Your Players.
-Various Shops PDF
-
-Mikey’s Post: In working with your co writers, the fellow DMs.
-I created the Magic Law of Conservation for this reason.
-There may be times where you don’t agree with your fellow DM by working together in a world. Often they say that in DnD you’re building a story together. But dude, what if they decide to make your favorite race losers? Or kill your favorite hero? Return this kindness by STORY COMBAT.
-
-What do I mean by this? So. The Magic Law of Conversion. Long story short, magic in this world is not destroyed. It’s locked in an ecosystem that’s constantly changing. And every entity in this world has points (out of 100). Through creative story writing, you can knock off some points from an entity, killing it. This creates an imbalance in the system. You destroy an entity worth 5 points, so now the world’s points go from 100 to 95.
-
-You can now use these 5 points to introduce new entities into the story. Whatever you want, so long as the rule of conservation is maintained; only 100 points of entities at a time.
-
-(The Law of Magic Conservation became a personal use thing. Not fair to ask others to abide by it. Too limiting. Best used for a hard magic system.)
-
-Example: Dragons and Tieflings (Introduced into the world by Jason and Mikey.)
-Dragons are worth 2 points, Tieflings are worth 3, 5 points in total.
-I want to rid the world of dragons to make the tiefling race stronger. I’m attached to tieflings because I wrote the lore for them. Jason is most likely attached to his lore as well. We’ll both do anything storywise to keep them alive. (With consent of course.)
-
-Dragons are also classified as Creatures: Few. Dragons can add to their 2 points by absorbing another entity. They can also lose their points when another entity tries to absorb them.
-
-Tieflings are a Race: Average Population, worth 3 Points. This means they have the upper hand in terms of killing the dragons through sheer number of units.
-
-In a session, a DM should write the session with a planned change in points or entity number, minimum of 1 point, maximum of the destruction of an entity.
-
-This becomes a thing of math, in accordance with the magic system.
-Simple war of killing the dragons. 3(Tieflings)-2(Dragons)=1(Tieflings). The Cost for slaying all the dragons into extinction is the death of all the tieflings. The 1 represents the last of the Tieflings (preferably 1 person, to retain the chance of repopulation.)
-
-So how does Jason’s Dragon lore fight against this equation? By using other entities in the magic system to increase the value of his dragons. This is when the math problem gets bigger. What other entity does he employ? What edge do I give my entities? This is the DM’s Story Combat. We are the gods that are fighting against each other for supremacy.
-
-In fairness, The session needs to be written with a way of reintroduction for the other DM to retain his lore. If my tiefling lore manages to erase his dragon entities, then they need to be able to come back into the world. How? By the creation of a magic artifact: Dragon Eggs. Or maybe the last dragon egg, idk, whatever Jason wants. This is fair. This gives us a challenge to retain our lore.
-
-Whoever loses their lore due to destruction gets the available points to introduce new lore. I think this is fair.
-
-What makes a story?
-Beginning, Conflict, Resolution. Fine tune that to your liking. Add more into it. All stories are stories of transformation. 
 
 How do I make people enjoy my story?
-Make it relatable. Ask what the player’s favorite setting is. Then give it a twist. Somelike like the 80/20 rule, where the 80 is their setting, and the 20 is the twist.
+Make it relatable. Ask what the player’s favorite setting is. Then give it a twist. Some like the 80/20 rule, where the 80 is their setting, and the 20 is the twist.
 Tailor it to their character. This is why a session 0 is important. When you know the character that they want to play, you can give them several challenges to test their player. Part of session zero is asking them 3 to 5 questions that give you an idea of the goal that motivates that character. I personally organize everything in 4 sections: Physical, Mental, Social, and Financial (Logistics). Do they want to become stronger to survive combat? Do they seek knowledge? Increase their magical ability? Find a Tutor? Learn more of the world? Do they want to protect someone that they know? Get powerful artifacts? Become rich?
 
 All stories are tales of transformation. The character from the beginning of their story should be considerably different when their story ends. This is what makes a good story.
@@ -231,7 +59,8 @@ Climax
 
 
 Cool House Rules
-Remove Speed. Estimate it.
+
+**Remove Speed**. Estimate it.
 Move without Penalty?
 Lower Stats? Mayyyybeee
 Super Cool Critical Hits
@@ -657,7 +486,7 @@ Magic is the future, mages forcing people to take mana
 
 
 
-[Mikey’s Characters (Organized by Class)](MikeyCharacters.md)
+[Mikey’s Characters (Organized by Class)](Mikey%20Characters.md)
 
 [CharacterDevelopmentQuestionnaire](CharacterDevelopmentQuestions.md)
 
@@ -676,4 +505,108 @@ Magic is the future, mages forcing people to take mana
 
 
 [JasonNotes](Jasonnotes.md)
+
+
+
+## Adventure Event Checklist
+For each adventure, give them 2 events per skill, for all skills.
+
+In D&D 5e, saving throws typically counteract battle or spell effects rather than advance the story. To create a rich and engaging narrative, it's essential to incorporate various skill checks that drive the plot forward.
+Story-Driven Skill Checks and Rewards
+
+
+If skill <=, auto succeed. If not, roll die. 1 is injury.  
+
+You Encounter:
+You can A._____ it and B._____ , but there's C.___ risk that you may D._______ 
+- A. Skill
+- Positive Event
+- 1-20 %
+- Negative Event
+
+Things that need to be in every adventure:
+
+| Attribute    | Skill             |  Application
+|--------------|-------------------|--
+| Strength     | Athletics         | Something heavy to move out the way. Extras only behind the obstacle
+| Dexterity    | Acrobatics        | 2nd Level with ways to get up quickly. Underlevel to be put in a bad spot.
+| Dexterity    | Sleight of Hand   | A Trap to disarm. A gullible person to pickpocket. (Nat 1 is discovery. Anything above is failure, then covering up.)
+| Dexterity    | Stealth           | 2nd or underlevel.
+| Intelligence | Arcana            | Magic decoration that alludes to the villain
+| Intelligence | History           | decoration that alludes to the villain
+| Intelligence | Investigation     | Dead Adventurers or monsters that allude to a previous conflict.
+| Intelligence | Nature            | Trees, Plants, Animals
+| Intelligence | Religion          | Religious Decoration
+| Wisdom       | Animal Handling   | Included in Nature, Animals.
+| Wisdom       | Insight           | Passive Insight. Check every time.
+| Wisdom       | Medicine          | Semi- Automatic. Injured people.
+| Wisdom       | Perception        | No need to plan
+| Wisdom       | Survival          | Woodland Survival. Introduce to actual bushman survival tactics.
+| Charisma     | Deception         | NPC or Enemies to talk to.
+| Charisma     | Intimidation      | NPC or Enemies to talk to.
+| Charisma     | Performance       | NPC or Enemies to talk to.
+| Charisma     | Persuasion        | NPC or Enemies to talk to.
+Passive | Perception                |
+Passive | Investigation             |
+Passive | Insight                   |
+
+##### Why bother will individual skill checks? when everything feels party-wide?
+In D&D 5e, skill checks are traditionally made by individuals to reflect each character's unique abilities and contributions to the group. However, using party-wide checks can streamline gameplay and enhance teamwork. Here's a deeper look at why individual skill checks are still valuable and how party-wide checks can be effectively used.
+Value of Individual Skill Checks
+
+    Character Spotlight: Individual skill checks allow each character to shine in their areas of expertise, highlighting their unique skills and backgrounds.
+    Diverse Challenges: Different characters may excel in different situations, creating a dynamic and varied gameplay experience.
+    Roleplaying Opportunities: Individual successes and failures can lead to interesting roleplaying moments and character development.
+    Balance and Fairness: Ensuring that each character has opportunities to use their skills can make the game feel more balanced and fair.
+
+Effective Use of Party-Wide Checks
+
+    Streamlining Gameplay: Party-wide checks can speed up the game, reducing the need for multiple rolls and keeping the story moving.
+    Collaborative Storytelling: Treating the party as a single entity can enhance the sense of teamwork and collective achievement.
+    Inclusive Engagement: Ensures that all players are involved in each challenge, preventing any one player from feeling left out.
+
+Implementing a Hybrid Approach
+
+To balance individual and party-wide checks, consider the following hybrid approach:
+Individual Skill Checks
+
+    Critical Moments: Use individual checks for crucial challenges where personal expertise is key.
+    Role-Specific Tasks: When tasks clearly align with a specific character's skills (e.g., a rogue disarming a trap), use individual checks.
+    Character Development: Individual checks that can lead to significant character growth or story development.
+
+Party-Wide Skill Checks
+
+    Common Challenges: For general tasks that the entire party can contribute to (e.g., group stealth, navigating terrain), use the highest modifier or an average roll.
+    Group Decisions: When the party decides to work together on a challenge, allow them to pool their skills for a collective check.
+    Routine Actions: For routine or less critical tasks, party-wide checks can keep the game flowing smoothly.
+
+| Attribute    | Skill             | Necessary Event                                                                                                                                      |
+|--------------|-------------------|--------------------------------------------------------------------------------------------------------------------------------------------|
+| Strength     | Athletics         | A heavy object in the way that needs to be moved.                                                                                          |
+| Dexterity    | Acrobatics        | A precarious place that requires quick feet to navigate.                                                                                   |
+| Dexterity    | Sleight of Hand   | An opportunity to pick a pocket or disarm a trap.                                                                                          |
+| Dexterity    | Stealth           | An enemy or threat that can be avoided through stealth.                                                                                    |
+| Intelligence | Arcana            | A magical occurrence that can be identified or understood.                                                                                 |
+| Intelligence | History           | A chance to recall the history of a culture, architecture, place, event, or meeting with people.                                           |
+| Intelligence | Investigation     | An event that has already transpired, requiring detailed examination.                                                                      |
+| Intelligence | Nature            | Identifying trees, plants, or animals in the area.                                                                                         |
+| Intelligence | Religion          | Understanding a religious article or symbol, which can be closely tied with history.                                                       |
+| Wisdom       | Animal Handling   | Controlling or calming an animal encountered during the adventure.                                                                         |
+| Wisdom       | Insight           | Automatic check with everyone they meet to gauge their initial thoughts and the validity of their words.                                    |
+| Wisdom       | Medicine          | Identifying medicinal herbs or procedures; determining if someone is injured and how to treat them.                                        |
+| Wisdom       | Perception        | Constant perception checks to notice hidden dangers or details (should be differentiated from passive perception).                         |
+| Wisdom       | Survival          | Surviving in the woods or wasteland, dealing with rations, food, poison, hunting, weather prediction, or identifying natural hazards.       |
+| Charisma     | Deception         | Convincing an NPC of a falsehood.                                                                                                          |
+| Charisma     | Intimidation      | Intimidating an NPC to get information or compliance.                                                                                      |
+| Charisma     | Performance       | An opportunity to perform in front of an audience for a reward or information.                                                             |
+| Charisma     | Persuasion        | Persuading an NPC to provide help or information.                                                                                          |
+
+## Passive Checks
+
+| Skill         | Event                                                                                                                                                        |
+|---------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Passive Perception | Write down what they see naturally without active searching.                                                                                              |
+| Passive Investigation | Provide an exact series of events or details that the characters would notice over time without actively searching.                                      |
+| Passive Insight | Write their initial thoughts and feelings about new NPCs and the general validity of their words.                                                            |
+
 

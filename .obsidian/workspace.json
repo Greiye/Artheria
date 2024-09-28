@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ArtheriaInteractive/ArtheriaWiki/Characters and Groups/Kazka.md",
+                "file": "Dungeon Master Materials/RiskTroops.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ArtheriaInteractive/ArtheriaWiki/Characters and Groups/Kazka.md",
+                "file": "Dungeon Master Materials/RiskTroops.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ArtheriaInteractive/ArtheriaWiki/Characters and Groups/Kazka.md",
+                "file": "Dungeon Master Materials/RiskTroops.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ArtheriaInteractive/ArtheriaWiki/Characters and Groups/Kazka.md"
+                "file": "Dungeon Master Materials/RiskTroops.md"
               }
             }
           }
@@ -149,8 +149,23 @@
   },
   "active": "9b9da337b9153881",
   "lastOpenFiles": [
+    "Dungeon Master Materials/Perchance.md",
+    "Dungeon Master Materials/Personality Roll Table.md",
+    "Dungeon Master Materials/Mikey Characters.md",
+    "Dungeon Master Materials/LoreFuel.md",
+    "Dungeon Master Materials/Jasonnotes.md",
+    "Dungeon Master Materials/Inspiration.md",
+    "Dungeon Master Materials/DnDNotesAnimalKingdomvsStrengthBrigadeApril7.md",
     "Dungeon Master Materials/DM Master Structure.md",
     "Dungeon Master Materials/DM-Notes.md",
+    "Storytelling and Events.md",
+    "Worldbuilding - Closed System.md",
+    "Friend Storytelling Request.md",
+    "Character and NPC Creation.md",
+    "Societies and Sentients.md",
+    "Worldbuilding - Reality and Ecology.md",
+    "Worldbuilding - Physical Landmasses.md",
+    "ArtheriaInteractive/ArtheriaWiki/Characters and Groups/Kazka.md",
     "AuthorshipWork/Ravnica Survivors.md",
     "ArtheriaInteractive/ArtheriaWiki/Lore of Creatures and Systems/Magic-and-Systems.md",
     "ArtheriaInteractive/ArtheriaWiki/Characters and Groups/Biliran.md",
@@ -162,21 +177,6 @@
     "ArtheriaInteractive/ArtheriaWiki/Settlements and Locations/Cities-and-Towns.md",
     "ArtheriaInteractive/ArtheriaWiki/Settlements and Locations/ColossusFields.md",
     "ArtheriaInteractive/ArtheriaWiki/Settlements and Locations/Forest.jpg",
-    "ArtheriaInteractive/ArtheriaWiki/Settlements and Locations/LivTown.md",
-    "ArtheriaInteractive/ArtheriaWiki/Settlements and Locations/MikeyTowns.md",
-    "ArtheriaInteractive/ArtheriaWiki/Settlements and Locations/Ranlean.md",
-    "ArtheriaInteractive/ArtheriaWiki/Settlements and Locations/Aralon.md",
-    "ArtheriaInteractive/ArtheriaWiki/Settlements and Locations/Sornes.md",
-    "ArtheriaInteractive/ArtheriaWiki/Stories and Tales (Sessions)/Biliran Scorched Earth.md",
-    "ArtheriaInteractive/ArtheriaWiki/Stories and Tales (Sessions)/ShortstoryTech.md",
-    "ArtheriaInteractive/ArtheriaWiki/Stories and Tales (Sessions)/Newharf Diseased Goblins.md",
-    "ArtheriaInteractive/ArtheriaWiki/Stories and Tales (Sessions)/Zeph Story.md",
-    "ArtheriaInteractive/ArtheriaWiki/Stories and Tales (Sessions)/The-Scorpion-and-the-Rancher.md",
-    "ArtheriaInteractive/ArtheriaWiki/Stories and Tales (Sessions)/St. Gabriel - Church of the First.md",
-    "ArtheriaInteractive/ArtheriaWiki/Characters and Groups/Veilo.md",
-    "ArtheriaInteractive/ArtheriaWiki/Stories and Tales (Sessions)/Tale of Veilo.md",
-    "ArtheriaInteractive/ArtheriaWiki/Stories and Tales (Sessions)/Tale of Kazka.md",
-    "ArtheriaInteractive/ArtheriaWiki/Stories and Tales (Sessions)/Sornes Session.md",
     "ArtheriaInteractive/ArtheriaWiki/Settlements and Locations/CarmineCastle.png",
     "ArtheriaInteractive/ArtheriaWiki/Settlements and Locations/BeachCaves.jpg",
     "ArtheriaInteractive/ArtheriaWiki/Lore of Creatures and Systems/MechaWater.jpg",

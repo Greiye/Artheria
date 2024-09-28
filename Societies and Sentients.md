@@ -1,0 +1,2 @@
+## Society
+There's a number of cycles that need to be planned out dependent on the resources around the society. When there's a resource close to a society, it changes. it's a constantly changing entity that would interact differently than it would in previous states.
