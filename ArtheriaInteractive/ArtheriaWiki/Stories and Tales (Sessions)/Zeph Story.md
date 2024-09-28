@@ -1,5 +1,5 @@
 Zeph Epilogue (From when I DM’ed for random players on rolegate, 2018?)
-Only in the village of Eylon can you find High Elves and Drow living in harmony; its natural stone walls protecting the glade it surrounds. Though the elven guards do great work patrolling in the day, the Drow do better. Nothing gets past them in their element.
+Only in the village of [[Eylon]] can you find High Elves and Drow living in harmony; its natural stone walls protecting the glade it surrounds. Though the elven guards do great work patrolling in the day, the Drow do better. Nothing gets past them in their element.
 
 As such, their composite High Elven/Drow crafts are well protected. If only more merchants came to spread their wares.
 

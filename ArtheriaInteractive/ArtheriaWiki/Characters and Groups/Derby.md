@@ -1,3 +1,4 @@
+Also known as Dr. Derby. or Derby Chadwick Merriweather.
 
 ## Physical Appearance
 

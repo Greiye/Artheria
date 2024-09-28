@@ -1,5 +1,7 @@
 ## Professions/Classes/Occupations
 
+No such thing as 'classes'. Simply your skills.
+
 In Artheria, there are many profession of adventurer. They cannot be sequestered into a single description. 
 
 

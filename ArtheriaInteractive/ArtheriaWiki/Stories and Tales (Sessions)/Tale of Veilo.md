@@ -18,7 +18,7 @@ His sister wasn’t the nicest person, as their friends would say. Veilo disagre
 
 Maybe her kindness was why she was called back to the here-after, much earlier than planned. She leaves behind five children. 5 children that look too much like her. A flicker of grief flashes in Veilo’s chest.
 
-Veilo closes the watch and resumes the hike. The sun is directly overhead. The fog is gone completely. He can now see the silhouette of a castle. This must be the place.
+[[Veilo]] closes the watch and resumes the hike. The sun is directly overhead. The fog is gone completely. He can now see the silhouette of a castle. This must be the place.
 
 …
 

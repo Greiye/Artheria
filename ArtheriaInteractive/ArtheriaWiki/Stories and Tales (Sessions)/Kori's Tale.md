@@ -34,7 +34,7 @@ Jason's 1st Campaign
 The two break out. They watch Conner take another life, the life of Saint Michael. He is decapitated, and Conner storms out, with miasma bleeding from his cut torso. Raq gains the object Project Raine (Rage Assisted Impact Nature  Engine)
 
 Kori takes St Michael’s Necklace, the sign of the Church of the First. They follow Connor to Aralon. A Salt Flats town.
-They grab food at the [[Settlement-Ranlean#Nackle|(NaCl)]] Known for its deserts (Amethyst Peak Lava cake, Ranlean Rhambutan).
+They grab food at the [[Ranlean#Nackle|(NaCl)]] Known for its deserts (Amethyst Peak Lava cake, Ranlean Rhambutan).
 
 They stop a group, members of the church of the first. They accuse the two of killing St. Rafael. Kori charms the man, known to be [[St. Rafael]].
 

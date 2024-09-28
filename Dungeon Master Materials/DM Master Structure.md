@@ -1,3 +1,19 @@
+Big Then Small
+
+# Landmasses
+## Resources on the Landmasses
+	Consult the Lifecycle. Predators need prey, which need veggies, which need predators.
+
+
+Sentients need prey, which need veggies.
+
+Technology needs fuel that is a natural landmass.
+
+## Closed System, Law of Energy
+Let there be 100 points, where each point is a resource of some kind.
+## Society
+There's a number of cycles that need to be planned out dependent on the resources around the society. When there's a resource close to a society, it changes. it's a constantly changing entity that would interact differently than it would in previous states.
+
 Storytelling Genres - DM’s eyes.
 Medieval Fantasy - Hymlie Principality
 Well Known. Uses DnD Ruleset.
@@ -643,7 +659,7 @@ Magic is the future, mages forcing people to take mana
 
 [Mikey’s Characters (Organized by Class)](MikeyCharacters.md)
 
-[CharacterDevelopmentQuestionnaire](CharacterDevQuestions.md)
+[CharacterDevelopmentQuestionnaire](CharacterDevelopmentQuestions.md)
 
 
 [Towns to Work On](MikeyTowns.md)

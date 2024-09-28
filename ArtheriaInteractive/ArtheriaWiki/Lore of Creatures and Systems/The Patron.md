@@ -1,4 +1,4 @@
-At the Moment, there is one Patron. The very same patron that brought upon the Promise that Shattered the World. The Patron, coming from a world of pain and suffering, has adjusted to Artheria. No longer does it feel the constant burning of its home plane.
+At the moment, there is one Patron. The very same patron that brought upon the [[Promise that Shattered the World]]. The Patron, coming from a world of pain and suffering, has adjusted to Artheria. No longer does it feel the constant burning of its home plane.
 
 The Patron took the form of a giant tentacle creature, its tentacles moving autonomously in response to any kind of pain and suffering. Just the emotional sense placed light pressure in the mana fields. The tentacles would seek to destroy before whatever the threat destroyed the Patron.
 
@@ -22,7 +22,6 @@ The mana required to remove these things from itself was massive. The Patron was
 The Patron’s efforts and the help of his siblings enabled the orc war to end.
 
 
-
 With the Orcs fought off and the war ended, The Patron’s task was done. He was to go back to his plane of suffering. This, he did not like. The Patron put the remainder of its mana into a spellbook. He had become fond of using magic. The spellbook acted as his journal. The Patron’s Spellbook.
 
 Pacts take a toll on both parties. The Scholar was dying, the pact continuing to sap his energy. The Scholar was growing older at a rapid pace. He sent out adventurers to find the Patron. The Patron was eventually caught. After the creation of its spellbook, It was too weak to reabsorb the Dark Fog, nor its heart or its Spellbook.
@@ -35,13 +34,13 @@ Before the Banishment Spell could be successful, the Patron tricked the Scholar.
 
 The Patron lived the rest of its life out as a mortal human woman. The attempted banishment, as well as the Patron being split into 4 total parts messed with its passing away. 
 
-The Patron then met Kavik. An Adventurer. Kavik was hungry for power. The Patron gave it to him. But it warned Kavik that the price for the power was pain and suffering. It is the price for its power. Invisible tentacles would sap and facilitate the pain of suffering of not only Kavik but those around him. Kavik would not listen.
+The Patron then met Kavik. An Adventurer. [[Kavik]] was hungry for power. The Patron gave it to him. But it warned Kavik that the price for the power was pain and suffering. It is the price for its power. Invisible tentacles would sap and facilitate the pain of suffering of not only Kavik but those around him. Kavik would not listen.
 
 The Patron’s body passed away. But its essence was transferred into Kavik’s essence. A deal was made. Kavik would enable The Patron to enjoy a life of adventure through his eyes, his senses. Because the Patron could not do this. The Patron could not explore the peace that this world had to offer.
 
 Whenever Kavik needed to talk to the Patron, he was tapping into the eye. 
 
-Kavik then became a renowned adventurer. Kavik had a son. Kazka.
+Kavik then became a renowned adventurer. Kavik had a son. [[Kazka]].
 
 The Scholar’s community learned of the failed banishment. They began to hunt Kavik down to extract the Patron from him.
 

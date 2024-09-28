@@ -17,7 +17,7 @@ Upon arrival, the group splits up. Yarl and Anna visit the king to discuss the m
 --------------
 The group reconvenes in the commons of their Guest Chambers, where Yarl called them to attention.
 
-![[Screenshot 2024-08-24 092409.png]]
+![[CarmineCastle.png]]
 
 Yarl
 "Everyone, gather up. We just finished up with King Carmine."
@@ -219,7 +219,7 @@ Kaelrith can be found flying overhead and Hawk is keeping up, flashing a mirror 
 
 
 
-![[c-1000-designbundle-forest-in-anime-style05-18-08-21eb82747caca672d306792c1737245b7095132da30f9bab71d81b0160562203.jpg]]
+![[Forest.jpg]]
 
 Yard leads the line.
 
@@ -228,7 +228,7 @@ They make the other riders look like children in size comparison.
 
 The roads are arduous, but The Caerne is unbothered.
 
-![[ezgif-4-83feec0b27.jpg]]
+![[AbandonedInn.jpg]]
 
 After 4 hours of riding, Yarl gives the signal to stop.
 The Caerne get off in a part of the road with some buildings. Maybe they're lucky one of them's an Inn or some sort. A place where they can momentarily rest.
@@ -281,7 +281,7 @@ The sun's starting to get a little low. There's about 2 hours left until the sun
 Kaelrith is flying overhead. She's led The Caerne here, to the sandhill that they now stand upon. According to the written instructions in Yarl's hand, this is the place:
 The entrance to a cave by the beach.
 
-![[ezgif-4-9abf0afcf7.jpg]]
+![[BeachCaves.jpg]]
 
 
 Kaelrith and Hawk return with a report.
@@ -525,7 +525,7 @@ This one is wearing an oversized blue colored soldier uniform. It's not only ill
 
 It holds a rusty rapier in its hand and is sniffing the air.
 
-![[q5pire7g.bmp]]
+![[Goblin1.bmp]]
 
 
 Iron-Tail know that she's armed to the teeth, and that she wouldn't make it super far by sneaking. So she tries to be crafty, trying to lure it away from the party by chucking some debris in a direction away from them.
@@ -1257,7 +1257,7 @@ It looks like some sacrificial alter to...
 **The statue that sits in the water**.
 
 
-![[asdaasdad.jpg]]
+![[MechaWater.jpg]]
 
 The statue isn't a statue at all; It's some kind of humanoid machine.
 

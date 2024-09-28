@@ -12,4 +12,4 @@
 | God of Trickery        | Unknown                        | Unknown                     | Not Specified                       |
 | Ephemerals God of War             | Anarch                         | Unknown                     | Humanoids, Dragons                  |
 
-[The Patron](ThePatron.md)
+[The Patron](The%20Patron.md)

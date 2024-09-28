@@ -1,4 +1,4 @@
-Kazka: The Tusks of the Einkhala
+[[Kazka]]: The Tusks of the Einkhala
 -Born in Aralon
 -Father was a former Adventurer
 -Made a pact with a mysterious being that Kazka’s father introduced to him

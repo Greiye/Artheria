@@ -1,6 +1,6 @@
 -The Tale of Raq
 
-[The Last of the First: Ending the First DnD Campaign.](LastoftheFirst.md)
+[The Last of the First: Ending the First DnD Campaign.](Last%20of%20the%20First.md)
 
 
 Unplanned and Unorganized Adventures

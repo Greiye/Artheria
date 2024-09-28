@@ -1,3 +1,23 @@
+An [[Emberkin]] woman who used to work as a carnival knife thrower.
+
+She says that her family came in through a portal with other Emberkin long ago. Seeing Emberkin is very rare.
+
+She has stated that her people use [[Pyroveil|a rare material]] to keep their hot bodies from burning everything around them.
+
+
+Personality
+At first she is shy, but bubbly once comfortable. She can be silly, putting on disguises for the fun of it, and a little dense. At some point, she left an imprint of her butt on a wooden bench in a tavern while drunk.
+
+
+
+
+She cannot read.
+
+With her share of 12,000 gold, she had plans to return home
+
+
+
+
 Here’s an updated version of your Level 3 Fire-specialized Sorcerer, tailored for a female Fire Genasi named Jenna:
 
 ### **Character Overview**

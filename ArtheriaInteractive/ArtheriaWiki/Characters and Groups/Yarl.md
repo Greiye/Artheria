@@ -1,5 +1,13 @@
 Here's a character concept for Yarl, a Warcaster-type mercenary leader with Paladin-like qualities but without the traditional paladin theme:
 
+
+Warlock
+Also known as 'Yarl of the Coven'
+Bound to a sister witch hag trio
+[[The Hag Sisters]]
+
+He has a close relationship with [[Kaelrith]].
+
 ### **Character Overview**
 
 - **Name:** Yarl

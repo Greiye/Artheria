@@ -17,7 +17,7 @@ As Biliran walks closer to the front gates of his grandfather's kingdom, he spot
 
 An unfamiliar knight stands by the gates, watching him. All black clothing. black armor. Even one of his hands is black and shining like polished obsidian. This hand rests on a sword's handle, sheathed at his hip.
 
-Biliran is closer now. The guards above the portcullis watch curiously at the interaction about to unfold.
+[[Biliran]] is closer now. The guards above the portcullis watch curiously at the interaction about to unfold.
 
 There was a squire, in fact. Biliran didn't see him.  The squire is either a child or a halfling, hiding away behind the knight, away from Biliran's gaze. Seems the pair were waiting for him.
 

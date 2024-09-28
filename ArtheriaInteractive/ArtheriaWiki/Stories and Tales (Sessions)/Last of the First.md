@@ -1,4 +1,4 @@
-Elikaen and St. Gabriel
+[[Elikaen]] and [[St. Gabriel]]
 It has been a week since the previous party disbanded.
 Battle: The Fight with Ivoras
 Elikaen has finally found the person she’s looking for: Her former mentor. He’s using the Einkhala Artifacts as weapons to destroy the Northern King.

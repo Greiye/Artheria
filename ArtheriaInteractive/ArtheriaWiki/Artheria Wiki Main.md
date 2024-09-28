@@ -116,20 +116,20 @@ Chronological Order of Past Sessions
 
 Past Sessions | Desc
 -- | --
-[Past Sessions Events: Church of the First](StGabrielChurchoftheFirst.md) | The First Long Campaign of Michael starring Josh, Jason, Liv, Kuya Rev.
-[Sand of Sornes](SornesSession.md) | Andy and Mikey
-[Newharf Diseased Goblins? I could be wrong.](NewharfDiseasedGoblins.md) | Joseph and Jaimee
+[Past Sessions Events: Church of the First](St.%20Gabriel%20-%20Church%20of%20the%20First.md) | The First Long Campaign of Michael starring Josh, Jason, Liv, Kuya Rev.
+[Sand of Sornes](Sornes%20Session.md) | Andy and Mikey
+[Newharf Diseased Goblins? I could be wrong.](Newharf%20Diseased%20Goblins.md) | Joseph and Jaimee
 [SinsofTheFather](SinsOfTheFather.md) | Drew and his Crew
 [Xantara](Xantara.md) | Jaimee
 [Nezra](Nezra.md) | Jaimee, Josh
 [Ramssess](Ramssess.md) | Andy
 [Biliran: Scorched Earth](Biliran%20Scorched%20Earth.md) | Jason's First Session
 [Kori](Kori's%20Tale.md) | Jason's first long session for Mike and Liv
-[Kazka's Tale](TaleofKazka.md) | Jason's Warlock Adventurer
-[Veilo: The Mercenary](TaleofVeilo.md) | Mike's first character concept, elaborated on by Jason
+[Kazka's Tale](Tale%20of%20Kazka.md) | Jason's Warlock Adventurer
+[Veilo: The Mercenary](Tale%20of%20Veilo.md) | Mike's first character concept, elaborated on by Jason
 [Kazka and Raq](KazkaRaq.md) | Mikey Development on Kazka, Jason's Warlock
 [Nezra, Yoshua, Ramses, Saint Gabriel, and the Rancher Leopold Session 15](The-Scorpion-and-the-Rancher.md) | Silly Funny Adventure
-[Zeph Rolegate Story](ZephStory.md) | Story I did on Rolegate years ago, circa 2019? When I was trucking.
+[Zeph Rolegate Story](Zeph%20Story.md) | Story I did on Rolegate years ago, circa 2019? When I was trucking.
 
 Information for the Player | Desc |
 -- | -- 
