@@ -1,8 +1,9 @@
 ## **Act 1: The Princess and the Goblins**
 
+
 **The First Summer**
 
-Spring has ended for The Caerne, giving way to the sweltering heat of summer. The cool mornings have become hot, with some afternoons so unbearable that staying outside is almost impossible. Taverns capitalize on this by offering refreshing beverages served with imported ice, a luxury that comes at twice the usual price. After all, ice in the summer isn't cheap.
+Spring has ended for [[The Caerne]], giving way to the sweltering heat of summer. The cool mornings have become hot, with some afternoons so unbearable that staying outside is almost impossible. Taverns capitalize on this by offering refreshing beverages served with imported ice, a luxury that comes at twice the usual price. After all, ice in the summer isn't cheap.
 
 The mercenary group has undergone significant changes in recent months. For the first time in years, the leader feels a sense of _safety_ among his hires. He has been seen more often around the camp, rather than spending his time away from it.
 

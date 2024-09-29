@@ -5,3 +5,5 @@
 | **Decision-Making** (T vs. F)        | **Thinking (T):** Makes decisions based on logic, values fairness, critical and detached.        | **Feeling (F):** Makes decisions based on values, values harmony, compassionate and subjective. |
 | **Lifestyle** (J vs. P)              | **Judging (J):** Prefers structure, plans ahead, values decisiveness, follows through on tasks.  | **Perceiving (P):** Prefers flexibility, enjoys spontaneity, keeps options open, adaptable.     |
 Flip Coin for it
+
+[[Character and NPC Creation]]

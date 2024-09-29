@@ -1,3 +1,5 @@
+[[Manascrap; A Novel 2024]]
+
 The Modern world ended. 
 
 Ours was history of the different races of Artheria banding together. We reached peace.

@@ -1,4 +1,28 @@
-At the moment, there is one Patron. The very same patron that brought upon the [[Promise that Shattered the World]]. The Patron, coming from a world of pain and suffering, has adjusted to Artheria. No longer does it feel the constant burning of its home plane.
+
+
+![[ThePatron.jpg]]
+The Patron is a demonic entity that is responsible for The [[Promise that Shattered the World]]. In this event, countless demons from another realm of existence was brought into the world.
+
+## Appearance
+The Patron is only known to 3 people; The Warlock, [[Kavik]], and [[Kazka]].
+
+The patron from written descriptions, is a mass of black tentacles like that of a common octopus. This is the only constant in the being's appearance.
+
+At times the patron appears demonic with sharp teeth and countless eyes. Sometimes it resembles a giant humanoid face with the tentacles acting as a beard. Sometimes it appears friendly and cute, or simply an indescribable mass of black tentacles.
+## A Source of Power to some
+Warlocks are very few in method. While druidic spellcasters pay homage to old gods and paladins to the new celestial, The Patron was the first to communicate with a sentient to act as their lens of influence.
+
+## Personality
+After forging a connection with its first warlock, the patron acquired the ability to communicate in Common.
+
+This entity is neither inherently good nor evil; it exists in a realm where survival hinges on a cellular-like communication system that requires consumption and adaptation.
+
+Through this newfound ability to speak, the patron reveals that the pain and suffering of those surrounding its warlocks serve as the source of its power. It emphasizes that it does not control the extent or impact of this influence, but rather feeds off the emotional turmoil generated within its effective range.
+
+---------------
+
+
+The Patron, coming from a world of pain and suffering, has adjusted to Artheria. No longer does it feel the constant burning of its home plane.
 
 The Patron took the form of a giant tentacle creature, its tentacles moving autonomously in response to any kind of pain and suffering. Just the emotional sense placed light pressure in the mana fields. The tentacles would seek to destroy before whatever the threat destroyed the Patron.
 

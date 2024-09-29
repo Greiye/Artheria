@@ -1,3 +1,5 @@
+[[Manascrap; A Novel 2024]]
+
 Micah encounters a machine. It has giant wall hands. There's trails of blood. Looks like people or creatures were pushed off down into the abyss.
 
 BEEP

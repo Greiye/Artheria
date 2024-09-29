@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dungeon Master Materials/RiskTroops.md",
+                "file": "Manascrap/The Domain Controller and other bits.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Kavik",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dungeon Master Materials/RiskTroops.md",
+                "file": "Manascrap/The Domain Controller and other bits.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dungeon Master Materials/RiskTroops.md",
+                "file": "Manascrap/The Domain Controller and other bits.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dungeon Master Materials/RiskTroops.md"
+                "file": "Manascrap/The Domain Controller and other bits.md"
               }
             }
           }
@@ -149,8 +149,30 @@
   },
   "active": "9b9da337b9153881",
   "lastOpenFiles": [
-    "Dungeon Master Materials/Perchance.md",
     "Dungeon Master Materials/Personality Roll Table.md",
+    "Manascrap/Setting.md",
+    "Blue.md",
+    "Azul Empire.md",
+    "Red Kingdoms.md",
+    "ArtheriaInteractive/ArtheriaWiki/History Events and Recordings/Kingdom Lore.md",
+    "ArtheriaInteractive/ArtheriaWiki/History Events and Recordings/The Caernes March/The Caerne's March Novel Act 1 Author.md",
+    "ArtheriaInteractive/ArtheriaWiki/History Events and Recordings/The Caernes March/The Caerne's March Novel Act 1.md",
+    "ArtheriaInteractive/ArtheriaWiki/Characters and Groups/Candor Nockcrest.md",
+    "ArtheriaInteractive/ArtheriaWiki/Lore of Creatures and Systems/The Patron.md",
+    "ThePatron.jpg",
+    "ArtheriaInteractive/ArtheriaWiki/Characters and Groups/Kazka.md",
+    "3Kazka.png",
+    "ArtheriaInteractive/ArtheriaWiki/Characters and Groups/Kavik.md",
+    "Bones.md",
+    "BonesWraithForm.jpg",
+    "BlueSolo.jpg",
+    "DALL·E 2024-07-19 09.34.49 - A female character named Blue, with clear skin and long dark brown hair in a messy ponytail. She is wearing a signature blue conscript uniform and hol.webp",
+    "Kavik2.png",
+    "Kavik2 1.png",
+    "Worldbuilding - Reality and Ecology.md",
+    "image.css.md",
+    "Dungeon Master Materials/RiskTroops.md",
+    "Dungeon Master Materials/Perchance.md",
     "Dungeon Master Materials/Mikey Characters.md",
     "Dungeon Master Materials/LoreFuel.md",
     "Dungeon Master Materials/Jasonnotes.md",
@@ -160,34 +182,12 @@
     "Dungeon Master Materials/DM-Notes.md",
     "Storytelling and Events.md",
     "Worldbuilding - Closed System.md",
-    "Friend Storytelling Request.md",
-    "Character and NPC Creation.md",
-    "Societies and Sentients.md",
-    "Worldbuilding - Reality and Ecology.md",
-    "Worldbuilding - Physical Landmasses.md",
-    "ArtheriaInteractive/ArtheriaWiki/Characters and Groups/Kazka.md",
-    "AuthorshipWork/Ravnica Survivors.md",
-    "ArtheriaInteractive/ArtheriaWiki/Lore of Creatures and Systems/Magic-and-Systems.md",
-    "ArtheriaInteractive/ArtheriaWiki/Characters and Groups/Biliran.md",
-    "ArtheriaInteractive/ArtheriaWiki/Lore of Creatures and Systems/Monsters/Monsters-and-Creature-Types.md",
     "ArtheriaInteractive/ArtheriaWiki/Settlements and Locations/AbandonedInn.jpg",
-    "ArtheriaInteractive/ArtheriaWiki/Settlements and Locations/Amethyst Peak.md",
-    "ArtheriaInteractive/ArtheriaWiki/Settlements and Locations/Tria-Prima.md",
-    "ArtheriaInteractive/ArtheriaWiki/Settlements and Locations/Virasana.md",
-    "ArtheriaInteractive/ArtheriaWiki/Settlements and Locations/Cities-and-Towns.md",
-    "ArtheriaInteractive/ArtheriaWiki/Settlements and Locations/ColossusFields.md",
     "ArtheriaInteractive/ArtheriaWiki/Settlements and Locations/Forest.jpg",
     "ArtheriaInteractive/ArtheriaWiki/Settlements and Locations/CarmineCastle.png",
-    "ArtheriaInteractive/ArtheriaWiki/Settlements and Locations/BeachCaves.jpg",
-    "ArtheriaInteractive/ArtheriaWiki/Lore of Creatures and Systems/MechaWater.jpg",
-    "Manascrap/DALL·E 2024-08-06 18.25.09 - An abandoned tower in the heart of a forgotten city, overgrown with dense forest and vines. The tower is weathered but still formidable, with broken w.webp",
     "Manascrap/Canvas.canvas",
-    "ArtheriaInteractive/ArtheriaWiki/Lore of Creatures and Systems/Monsters/Goblin1.bmp",
-    "ArtheriaInteractive/ArtheriaWiki/History Events and Recordings/TheMech1.png",
     "ArtheriaInteractive/ArtheriaWiki/Lore of Creatures and Systems/Monsters",
     "DM Stuff",
-    "Artherian Unsorted Images/Whitewash_River.png",
-    "Artherian Unsorted Images/Various_Types_of_Elves.png",
     "Characters",
     "Photos",
     "The Caernes March/Rolegate Encounter 1",

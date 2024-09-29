@@ -1,9 +1,9 @@
-#### Before the Red Kingdoms
+#### Before the [[Red Kingdoms]]
 There are several kingdoms out there, each one ruled by a king. 
 In the past, they warred with each other for land and resources.
 
 
-#### Azul Empire
+#### [[Azul Empire]]
 A cut throat businesswoman had discovered a resource.
 She monopolized the resource immediately, leveraging her contacts and resources to amass an enormous fortune. It enabled a worthy army; The Azulan Army.
 
