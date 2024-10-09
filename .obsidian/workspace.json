@@ -11,11 +11,14 @@
             "id": "9b9da337b9153881",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Manascrap/The Domain Controller and other bits.md",
-                "mode": "source",
-                "source": false
+                "file": "Artheria Mind and and Actual Map.canvas",
+                "viewState": {
+                  "x": -102.24151611328125,
+                  "y": -115.93455968447377,
+                  "zoom": 0
+                }
               }
             }
           }
@@ -85,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Manascrap/The Domain Controller and other bits.md",
+                "file": "Artheria Mind and and Actual Map.canvas",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Manascrap/The Domain Controller and other bits.md",
+                "file": "Artheria Mind and and Actual Map.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Manascrap/The Domain Controller and other bits.md"
+                "file": "Artheria Mind and and Actual Map.canvas"
               }
             }
           }
@@ -149,6 +152,8 @@
   },
   "active": "9b9da337b9153881",
   "lastOpenFiles": [
+    "Manascrap/The Domain Controller and other bits.md",
+    "Artheria Mind and and Actual Map.canvas",
     "Dungeon Master Materials/Personality Roll Table.md",
     "Manascrap/Setting.md",
     "Blue.md",
@@ -181,7 +186,6 @@
     "Dungeon Master Materials/DM Master Structure.md",
     "Dungeon Master Materials/DM-Notes.md",
     "Storytelling and Events.md",
-    "Worldbuilding - Closed System.md",
     "ArtheriaInteractive/ArtheriaWiki/Settlements and Locations/AbandonedInn.jpg",
     "ArtheriaInteractive/ArtheriaWiki/Settlements and Locations/Forest.jpg",
     "ArtheriaInteractive/ArtheriaWiki/Settlements and Locations/CarmineCastle.png",
