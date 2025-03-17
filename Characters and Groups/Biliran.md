@@ -1,0 +1,1 @@
+Biliran is an [[Emberkin]], specifically a Lava Genasi.

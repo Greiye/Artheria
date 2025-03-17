@@ -1,0 +1,1 @@
+Their coat of arms is blue.

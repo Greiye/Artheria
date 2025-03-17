@@ -8,61 +8,56 @@ The following is fiction made by me, for the purposes of studying. There will be
 
 
 ## Chapter 1
-- I'm a wizard. Well, a wizard in training.
-- Previously, I was a hauler. I drove a truck full of goods. Food, Building Materials, slaves.
-- I fought my last employers. It was a trade gone wrong. They led me through vats of toxic fumes, without the gear they had. If I had stayed, I would have died several deaths. The poison works like that. You think you made it out, but really a part of you was taken.
-- There's a scar on my chest. It's a small one, no one really notices it, but I think about it a lot.
-- I found a cozy place out here in the wastes.
-- An abandoned structure. From a time long past. When the world ran on magic.
-- I'm here because of the promise of a wizard society. A place where all your problems are solved. where you'll be safe from raiders.
-- An older wizard that I met while passing told me about this place. We both thought it was a myth.
-- This place... It still works.
-- There's 'stations', the magic here still runs.
-- There's a bot here too. It's friendly. Warm. Protected by 4 demon dogs. There's a fountain, berries, a hidden garden.
-- I can stay here.
-- I can learn the ways of a wizard.
-  
-The main character is staying in a place that's desert and an unending metropolis. There's vines, telephone lines, abandoned cars, debris everywhere. The sky is barely visible because of all the broken skyscrapers. It's post apocalyptic. the machine that's keeping the place working looks like a human and is friendly looking. the robot looks like the photo supplied. It has white flowers all over it. It has a docking station that is in the middle of the demon dog's beds.
+I'm a wizard.
+
+Well, in training. A self taught one.
+
+
+Before this, I was a hauler, driving a truck across deserts and icy plains, carrying food, building materials, and—yes—slaves. My last job ended badly. A trade gone wrong led me through vats of toxic fumes, unprotected, while my employers watched. I escaped, but the poison lingers; it takes a piece of you, even after you think you're safe.
+
+There's a small scar on my chest, barely noticeable, but a constant reminder. Now, I've found a haven in the wastes—an abandoned structure from a time when the world ran on magic. I came here seeking a wizard society, a place of safety and refuge from raiders, a place promised to me by an old wizard I met on the road. We both thought it was a myth.
+
+But it's real. This place still functions. There are "stations," where the magic flows. And there's a friendly, warm robot, guarded by four demon dogs. It tends a hidden garden, a fountain, and berry bushes. I can stay here, learn the ways of a wizard.
+
+I'm in a strange place: a desert that's also an unending metropolis. Vines crawl over abandoned telephone lines and rusting cars, debris litters the landscape, and the sky is barely visible through the broken skyscrapers. It's post-apocalyptic. The robot that keeps this place running looks almost human, friendly and covered in white flowers. It has a docking station nestled right in the middle of the demon dogs' sleeping area. The robot looks exactly like the photo the old wizard showed me.
 
 ## Chapter 2
-I have been here for almost a cycle now. Been here since spring. then the heat of summer. then fall. winter. And now fall will come once more.
+I've been here for almost a full cycle now—through spring, the scorching summer, autumn, winter, and now autumn again. I've learned a great deal from the station, but there's still so much more to discover.
 
-I have learned much from the station. There is still much to learn.
+My casting device is in my satchel. Others use stone tablets of varying sizes, and I have one as well. Intricate mana lines flow across their surfaces.
 
-I have a casting device. I've seen what others have. They have stone tablets that vary in size. I do as well. These tablets have complex mana lines that flow all around.
+Magic here is diverse, and casting spells takes time and practice. I've encountered several spellcasters, each with their own unique spells and methods, often written in their native tongues. As if learning magic wasn't challenging enough, mastering multiple languages seems essential.
 
-There's different magics. Casting them takes time. I've seen a few Spellcasters here and there, each one knowing different spells written in different ways. Often in their own mother tongue. As if the arts weren't difficult enough.
+My knowledge of magic comes from the archives within _Jacana_, a long, mostly derelict building. Only one section remains functional—the one guarded by the four demon dogs.
 
-This is what I learned from the archives here, in the forgotten building known as *Jacana*.
-
-Jacana is a long building. Only one section works the one with the demon dogs.
-
-They guard this machine. It's big and large. It tends the gardens and the water. It's old. It creaks when it moves. The dogs seem to give it purpose. Maybe this was a nursery at some point. There are rotten books with pages. Magical artifacts that show forms of people. I can barely make sense of it. It must have been from eons ago.
+The dogs protect a large, ancient machine that tends the gardens and waters the plants. It creaks and groans as it moves, and the dogs seem to give it purpose. Perhaps this place was once a nursery? Among the decaying books and pages, I've found magical artifacts depicting figures from a time long past—centuries? Millennia? I can barely decipher their meaning.
 
 
 
-The Schools of magic that I learned
+> I've begun studying three main schools of magic:
 
-Eich-Temel. It's structure magic. Like creating zones where other magics are supposed to go.
+> - **Eich-Temel:** This is _structure magic_, focusing on creating zones or frameworks for other magics. It's not directly functional, but it dictates where magic symbols are placed.
 
-Cies - It's transmutation magic. disguise magic. It can make spells look and feel a certain way.
+> - **Cies:** _Transmutation magic_, or disguise magic. It alters the appearance and feel of spells.
 
-Jaeyese - Functional Magic. Very powerful.
-It looks different depending on the caster.
+> - **Jaeyese:** This is _functional magic_, and very powerful. Its appearance varies depending on the caster, each possessing a unique _mana signature_. The magic requires a personal cost—at minimum, a hair or some energy from food. A mana reader could even identify the caster of a spell that destroyed a village. This makes me wonder... am I a _Scripter_, a user of manatech, but not a full sorcerer?
 
-By default, these magics simply arrive.
 
-One second they appear, and the next, they disappear. It's jarring. There are previous students on the tablets that report going blind or getting their fingers cut off when improperly using this type of magic.
+Jaeyese Magic, by default is dangerous. What's worse is that these magics simply arrive. As in without proper understanding of what the leylines do, a spell can be cast and it just takes effect without a change in sense. Dysfunctional magic that simply takes effect. No flashy fire, no booming sound. A magician simply wills something to exist and it just does, as if it was always there. A magi wishes for a conversation to have never taken place, and it simply doesn't.
 
-Jaeyese tries to make these spells smooth. Rather than blinding, searing light, it slowly gains intensity, until the caster stops it.
+This could cause Mages to lose their mind. Is the world their doing? Did they cast a spell that limits themselves? Do they unknowningly have the power to erase themselves with a single spell? 
 
-This is just one of its uses.
+
+One second these mage effects appear, and the next, they disappear. It's jarring. It makes you question reality.
+
+There are previous students on the tablets that report going blind or getting their fingers cut off when improperly using this type of magic. Try as they might, Jaeyese magic needs understanding of Cies and Eich-Temel.
+
+
+Jaeyese tries to make these spells smooth. It can control amplitude and time. It can be both the water valve and the piping. Rather than blinding, searing light, it slowly gains intensity, until the caster stops it. This is just one of its uses.
 
 So far, Jaeyese is a very attractive kind of magic. with enough mana, it can make a roof over my head, start fires.
 
-
-
-### Where I am now, Cycle 
+### Where I am now, Cycle 2
 Right now I'm learning about:
 
 **Manastone Structure**
@@ -108,11 +103,13 @@ The Owlen Order, off what the wizard that I met long ago, gave me enough encrypt
 
 **I wish to be recognized by the Owlen Order.**
 
-The 
+I have been studying their ways for a year now.
+I find that there's something wrong with me.
 
 
 
 
+----------------
 ## Author Notes
 This setting takes place in Artheria.
 My friend's characters are Ancestors, their characters linked to them.

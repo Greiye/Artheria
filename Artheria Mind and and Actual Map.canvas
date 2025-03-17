@@ -4,9 +4,10 @@
 		{"id":"d5d6706c1940aa98","type":"text","text":"[[Ranlean]]","x":40,"y":20,"width":250,"height":60},
 		{"id":"c85b3d01011b501a","type":"text","text":"Adventure in the Forest","x":-60,"y":-175,"width":250,"height":60},
 		{"id":"6739f1d3a1898b6a","type":"text","text":"[[Aralon]]","x":-482,"y":20,"width":250,"height":60},
-		{"id":"b350207b505b11a7","x":-357,"y":-260,"width":250,"height":60,"type":"text","text":"Castle Blackthorn"},
-		{"id":"83ff55e825ae579e","x":-482,"y":100,"width":250,"height":60,"type":"text","text":"Zamir House\nIt's an elaborate manor"},
-		{"id":"e99bf96cc0c3a72d","x":40,"y":100,"width":250,"height":60,"type":"text","text":"Ranlean Science Facility"}
+		{"id":"b350207b505b11a7","type":"text","text":"Castle Blackthorn","x":-357,"y":-260,"width":250,"height":60},
+		{"id":"83ff55e825ae579e","type":"text","text":"Zamir House\nIt's an elaborate manor","x":-482,"y":100,"width":250,"height":60},
+		{"id":"e99bf96cc0c3a72d","type":"text","text":"Ranlean Science Facility","x":40,"y":100,"width":250,"height":60},
+		{"id":"6f0145cf24a6996b","x":-60,"y":-320,"width":250,"height":60,"type":"text","text":"Podrigo Cabin"}
 	],
 	"edges":[
 		{"id":"9c5df5bc4a15ceaa","fromNode":"35bfb103bdfb4452","fromSide":"bottom","toNode":"6739f1d3a1898b6a","toSide":"top"},
@@ -18,6 +19,7 @@
 		{"id":"c26e8cded8e1b1f4","fromNode":"c85b3d01011b501a","fromSide":"bottom","toNode":"d5d6706c1940aa98","toSide":"top"},
 		{"id":"7f7489cdf44f2e33","fromNode":"35bfb103bdfb4452","fromSide":"top","toNode":"b350207b505b11a7","toSide":"bottom"},
 		{"id":"c3db0eb70161e459","fromNode":"6739f1d3a1898b6a","fromSide":"bottom","toNode":"83ff55e825ae579e","toSide":"top"},
-		{"id":"fb7b418344fce196","fromNode":"d5d6706c1940aa98","fromSide":"bottom","toNode":"e99bf96cc0c3a72d","toSide":"top"}
+		{"id":"fb7b418344fce196","fromNode":"d5d6706c1940aa98","fromSide":"bottom","toNode":"e99bf96cc0c3a72d","toSide":"top"},
+		{"id":"422a63dac383e8f5","fromNode":"c85b3d01011b501a","fromSide":"top","toNode":"6f0145cf24a6996b","toSide":"bottom"}
 	]
 }

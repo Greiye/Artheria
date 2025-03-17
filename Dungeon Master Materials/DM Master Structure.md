@@ -3,8 +3,8 @@
 
 [[Worldbuilding - Physical Landmasses, Resources]]
 [[Worldbuilding - Reality and Ecology]]
-[[Worldbuilding - Closed System]]
-[[Societies and Sentients]]
+[[Worldbuilding - Hard Magic Closed System]]
+[[Planning Societies and Sentients]]
 [[Technology and Magic - Hard or Soft]]
 
 -----------------
@@ -478,7 +478,7 @@ Magic is the future, mages forcing people to take mana
 [Lore Fuel](LoreFuel.md)
 [PaperComputerHybridGame](PaperComputerHybridGame)
 [DnD-Risk-Troops](RiskTroops.md)
-[Inspirations](Inspiration.md)
+[Inspirations](Dungeon%20Master%20Materials/Inspiration.md)
 
 
 
