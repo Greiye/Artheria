@@ -11,15 +11,10 @@
             "id": "9b9da337b9153881",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Artheria Mind and and Actual Map.canvas",
-                "viewState": {
-                  "x": -102.24151611328125,
-                  "y": -115.93455968447377,
-                  "zoom": 0
-                }
-              }
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -41,8 +36,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -57,7 +55,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byCreatedTime"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -65,7 +65,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -96,7 +98,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Artheria Mind and and Actual Map"
             }
           },
           {
@@ -108,7 +112,9 @@
                 "file": "Artheria Mind and and Actual Map.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Artheria Mind and and Actual Map"
             }
           },
           {
@@ -118,8 +124,12 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
-              }
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -128,8 +138,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Artheria Mind and and Actual Map.canvas"
-              }
+                "file": "Artheria Mind and and Actual Map.canvas",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Artheria Mind and and Actual Map"
             }
           }
         ],
@@ -142,6 +157,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "system3-relay:Relay": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -152,8 +168,8 @@
   },
   "active": "9b9da337b9153881",
   "lastOpenFiles": [
-    "Manascrap/The Domain Controller and other bits.md",
     "Artheria Mind and and Actual Map.canvas",
+    "Manascrap/The Domain Controller and other bits.md",
     "Dungeon Master Materials/Personality Roll Table.md",
     "Manascrap/Setting.md",
     "Blue.md",
@@ -185,7 +201,6 @@
     "Dungeon Master Materials/DnDNotesAnimalKingdomvsStrengthBrigadeApril7.md",
     "Dungeon Master Materials/DM Master Structure.md",
     "Dungeon Master Materials/DM-Notes.md",
-    "Storytelling and Events.md",
     "ArtheriaInteractive/ArtheriaWiki/Settlements and Locations/AbandonedInn.jpg",
     "ArtheriaInteractive/ArtheriaWiki/Settlements and Locations/Forest.jpg",
     "ArtheriaInteractive/ArtheriaWiki/Settlements and Locations/CarmineCastle.png",
