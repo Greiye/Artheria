@@ -1,1 +1,0 @@
-A middle eastern fighter who uses a flail or mace.

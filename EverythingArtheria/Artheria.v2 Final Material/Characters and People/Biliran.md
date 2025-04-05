@@ -1,0 +1,1 @@
+Biliran is an [[Test/ArtheriaInteractive/ArtheriaWiki/Characters and Groups/Emberkin|Emberkin]], specifically a Lava Genasi.

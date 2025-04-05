@@ -1,1 +1,0 @@
-A young 14-16 year old orc girl. 

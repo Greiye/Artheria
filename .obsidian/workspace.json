@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "a7d4c07331348636",
+        "id": "d502f6020e16a2a1",
         "type": "tabs",
         "children": [
           {
-            "id": "9b9da337b9153881",
+            "id": "2c2a2b0e06d21f4d",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "EverythingArtheria/Dungeon Master Materials/Dungeon Master Concepts/Dungeon Master - AI LLM Usage.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Dungeon Master - AI LLM Usage"
             }
           }
         ]
@@ -49,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Kavik",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 383.5
   },
   "right": {
     "id": "c07ec266b53b9801",
@@ -84,6 +88,21 @@
         "id": "8ec144d55d4f4ee8",
         "type": "tabs",
         "children": [
+          {
+            "id": "82691959c47e7d4e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "EverythingArtheria/Dungeon Master Materials/Dungeon Master Concepts/Hard System - Geography and Resources.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Hard System - Geography and Resources"
+            }
+          },
           {
             "id": "f40e5ea784f22e9e",
             "type": "leaf",
@@ -133,87 +152,84 @@
             }
           },
           {
-            "id": "82691959c47e7d4e",
+            "id": "2711ecb49dd60eab",
             "type": "leaf",
             "state": {
-              "type": "outline",
-              "state": {
-                "file": "Artheria Mind and and Actual Map.canvas",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline of Artheria Mind and and Actual Map"
+              "type": "copilot-chat-view",
+              "state": {},
+              "icon": "message-square",
+              "title": "Copilot"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 522.5,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
       "system3-relay:Relay": false,
       "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
+      "graph:Open graph view": true,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "copilot:Open Copilot Chat": false
     }
   },
-  "active": "9b9da337b9153881",
+  "active": "17b0e9634b74b153",
   "lastOpenFiles": [
-    "Artheria Mind and and Actual Map.canvas",
-    "Manascrap/The Domain Controller and other bits.md",
-    "Dungeon Master Materials/Personality Roll Table.md",
-    "Manascrap/Setting.md",
-    "Blue.md",
-    "Azul Empire.md",
-    "Red Kingdoms.md",
-    "ArtheriaInteractive/ArtheriaWiki/History Events and Recordings/Kingdom Lore.md",
-    "ArtheriaInteractive/ArtheriaWiki/History Events and Recordings/The Caernes March/The Caerne's March Novel Act 1 Author.md",
-    "ArtheriaInteractive/ArtheriaWiki/History Events and Recordings/The Caernes March/The Caerne's March Novel Act 1.md",
-    "ArtheriaInteractive/ArtheriaWiki/Characters and Groups/Candor Nockcrest.md",
-    "ArtheriaInteractive/ArtheriaWiki/Lore of Creatures and Systems/The Patron.md",
-    "ThePatron.jpg",
-    "ArtheriaInteractive/ArtheriaWiki/Characters and Groups/Kazka.md",
-    "3Kazka.png",
-    "ArtheriaInteractive/ArtheriaWiki/Characters and Groups/Kavik.md",
-    "Bones.md",
-    "BonesWraithForm.jpg",
-    "BlueSolo.jpg",
-    "DALL·E 2024-07-19 09.34.49 - A female character named Blue, with clear skin and long dark brown hair in a messy ponytail. She is wearing a signature blue conscript uniform and hol.webp",
-    "Kavik2.png",
-    "Kavik2 1.png",
-    "Worldbuilding - Reality and Ecology.md",
-    "image.css.md",
-    "Dungeon Master Materials/RiskTroops.md",
-    "Dungeon Master Materials/Perchance.md",
-    "Dungeon Master Materials/Mikey Characters.md",
-    "Dungeon Master Materials/LoreFuel.md",
-    "Dungeon Master Materials/Jasonnotes.md",
-    "Dungeon Master Materials/Inspiration.md",
-    "Dungeon Master Materials/DnDNotesAnimalKingdomvsStrengthBrigadeApril7.md",
-    "Dungeon Master Materials/DM Master Structure.md",
-    "Dungeon Master Materials/DM-Notes.md",
-    "ArtheriaInteractive/ArtheriaWiki/Settlements and Locations/AbandonedInn.jpg",
-    "ArtheriaInteractive/ArtheriaWiki/Settlements and Locations/Forest.jpg",
-    "ArtheriaInteractive/ArtheriaWiki/Settlements and Locations/CarmineCastle.png",
-    "Manascrap/Canvas.canvas",
-    "ArtheriaInteractive/ArtheriaWiki/Lore of Creatures and Systems/Monsters",
-    "DM Stuff",
-    "Characters",
-    "Photos",
-    "The Caernes March/Rolegate Encounter 1",
-    "ArtheriaInteractive/ArtheriaWiki/History Events and Recordings/The Caernes March",
-    "Manascrap",
-    "Artherian Unsorted Images",
-    "ArtheriaInteractive/ArtheriaWiki/Lore of Creatures and Systems",
-    "Dungeon Master Materials"
+    "EverythingArtheria/Stories and Tales (Sessions)/2023/Tale_of_Veilo_Novel.md",
+    "EverythingArtheria/Stories and Tales (Sessions)/2023/Kazka_Raq_Tales-Of-A-Former-Hero.md",
+    "EverythingArtheria/Stories and Tales (Sessions)/2022/The-Scorpion-and-the-Rancher.md",
+    "EverythingArtheria/Stories and Tales (Sessions)/2022/Sornes Session.md",
+    "EverythingArtheria/Stories and Tales (Sessions)/2022/Sins_Of_The_Father.md",
+    "EverythingArtheria/Stories and Tales (Sessions)/2022/Newharf Diseased Goblins.md",
+    "EverythingArtheria/Stories and Tales (Sessions)/2021/St. Gabriel - Church of the First.md",
+    "EverythingArtheria/Mikey Notes/Stories and Tales (Sessions)/2023/Kazka_Raq_Tales-Of-A-Former-Hero.md",
+    "EverythingArtheria/Mikey Notes/Stories and Tales (Sessions)/2022/The-Scorpion-and-the-Rancher.md",
+    "EverythingArtheria/Mikey Notes/Stories and Tales (Sessions)/2022/Sornes Session.md",
+    "EverythingArtheria/Mikey Notes/Stories and Tales (Sessions)/2022/Newharf Diseased Goblins.md",
+    "EverythingArtheria/Mikey Notes/Lore of Creatures and Systems/Races.md",
+    "EverythingArtheria/Mikey Notes/Let-Mikey-Worry-About-That/Societies and Sentients.md",
+    "EverythingArtheria/Mikey Notes/Let-Mikey-Worry-About-That/Random Story Ideas.md",
+    "EverythingArtheria/Mikey Notes/Let-Mikey-Worry-About-That/Professions/Professions Main.md",
+    "EverythingArtheria/Mikey Notes/Let-Mikey-Worry-About-That/Manascrap/Manascrap; A Novel 2024.md",
+    "EverythingArtheria/Mikey Notes/Let-Mikey-Worry-About-That/The Cycle.md",
+    "EverythingArtheria/Mikey Notes/Let-Mikey-Worry-About-That/Professions",
+    "EverythingArtheria/Stories and Tales (Sessions)/2023",
+    "EverythingArtheria/Stories and Tales (Sessions)/2021",
+    "EverythingArtheria/Stories and Tales (Sessions)/2022",
+    "EverythingArtheria/Stories and Tales (Sessions)",
+    "EverythingArtheria/Mikey Notes/Stories and Tales (Sessions)/Random Story Ideas.md",
+    "EverythingArtheria/Mikey Notes/Stories and Tales (Sessions)/2023/Tale_of_Veilo_Novel.md",
+    "EverythingArtheria/Mikey Notes/Stories and Tales (Sessions)/2022/Sins_Of_The_Father.md",
+    "EverythingArtheria/Mikey Notes/Stories and Tales (Sessions)/2021/St. Gabriel - Church of the First.md",
+    "EverythingArtheria/Mikey Notes/Settlements and Locations/Virasana.md",
+    "EverythingArtheria/Mikey Notes/Settlements and Locations/The Alchemical Romance.md",
+    "EverythingArtheria/Mikey Notes/Settlements and Locations/Sornes.md",
+    "EverythingArtheria/Mikey Notes/Settlements and Locations/MikeyTowns.md",
+    "EverythingArtheria/Mikey Notes/Settlements and Locations/LivTown.md",
+    "EverythingArtheria/Mikey Notes/Stories and Tales (Sessions)/2023",
+    "EverythingArtheria/Mikey Notes/Stories and Tales (Sessions)/2021",
+    "EverythingArtheria/Mikey Notes/Stories and Tales (Sessions)/2022",
+    "EverythingArtheria/Mikey Notes/Stories and Tales (Sessions)",
+    "EverythingArtheria/Mikey Notes/Settlements and Locations",
+    "EverythingArtheria/Mikey Notes/Let-Mikey-Worry-About-That/Lore of Creatures and Systems/Monsters/Goblin1.bmp",
+    "Images/AbandonedInn.jpg",
+    "Images/BeachCaves.jpg",
+    "Images/TheMech1.png",
+    "Images/Types of Angels.png",
+    "Images/Ephemerals2Sketch.JasonDnD.Paper.Anarch.png",
+    "Images/Ephemerals1.JasonDnD.Anarch.Petrichor.Vellichor.png",
+    "Cyberpunk Future Stuff/IMages/Pasted image 20250331123518.png",
+    "Canvases/Artheria Mind and and Actual Map.canvas",
+    "EverythingArtheria/Mikey Notes/Let-Mikey-Worry-About-That/Dungeon Master Materials/Manascrap Cyberpunk/Canvas.canvas",
+    "Images/DALL·E 2024-08-06 18.25.09 - An abandoned tower in the heart of a forgotten city, overgrown with dense forest and vines. The tower is weathered but still formidable, with broken w.webp",
+    "Cyberpunk Future Stuff/IMages/Pasted image 20250331143657.png"
   ]
 }
