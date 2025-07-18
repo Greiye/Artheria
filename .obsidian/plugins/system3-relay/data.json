@@ -5,9 +5,9 @@
   },
   "sharedFolders": [
     {
-      "guid": "5f09636c-ed29-4f6e-89b3-d94177526af6",
-      "path": "EverythingArtheria",
-      "relay": "0621a575-29c1-4bb1-9175-190fb1116616",
+      "path": "EverythingArtheria.v2",
+      "guid": "d567d242-9721-4a17-92f1-d13579979516",
+      "relay": "602ec47f-9e7c-45be-9852-aa0c8c52abc5",
       "sync": {
         "images": true,
         "audio": true,

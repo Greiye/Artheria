@@ -1,0 +1,1 @@
+A slick defense attorney known for getting the worst criminals off the hook. He claims to believe in "true justice" but is deep in laundering Jury money.

@@ -14,7 +14,7 @@
   "googleApiKey": "AIzaSyBUtVyb1l9EsxNBSOHZmpz4wNhgRyYpH0I",
   "openRouterAiApiKey": "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",
   "defaultChainType": "llm_chain",
-  "defaultModelKey": "gpt-4o|openai",
+  "defaultModelKey": "gemini-2.0-flash|google",
   "embeddingModelKey": "text-embedding-3-small|openai",
   "temperature": 0.1,
   "maxTokens": 1000,
@@ -33,7 +33,7 @@
   "qaInclusions": "",
   "chatNoteContextPath": "",
   "chatNoteContextTags": [],
-  "enableIndexSync": true,
+  "enableIndexSync": false,
   "debug": false,
   "enableEncryption": false,
   "maxSourceChunks": 3,
@@ -210,7 +210,7 @@
       "isEmbeddingModel": true
     }
   ],
-  "embeddingRequestsPerMin": 90,
+  "embeddingRequestsPerMin": 30,
   "embeddingBatchSize": 16,
   "disableIndexOnMobile": true,
   "showSuggestedPrompts": true,

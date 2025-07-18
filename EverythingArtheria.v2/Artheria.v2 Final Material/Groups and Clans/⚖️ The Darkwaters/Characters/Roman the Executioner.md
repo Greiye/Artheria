@@ -1,0 +1,7 @@
+- A brutal enforcer who led silent cleanups of inconvenient witnesses and dissenters.
+- Known for wielding a massive blade inscribed with legalese.
+- Signature Traits
+	- **Scorched Shadow:** His shadow appears to smolder or drip ash regardless of light source.
+	- **Executioner’s Grip:** Any weapon he touches leaves a faint burn on the handle.
+	- **Iron Scent:** The air around him smells like rusted chains and blood.
+	- **Unblinking Gaze:** Roman doesn’t blink. Ever.

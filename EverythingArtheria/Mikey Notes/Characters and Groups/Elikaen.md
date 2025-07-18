@@ -1,1 +1,0 @@
-An Elven or Half Elven fighter of some type.

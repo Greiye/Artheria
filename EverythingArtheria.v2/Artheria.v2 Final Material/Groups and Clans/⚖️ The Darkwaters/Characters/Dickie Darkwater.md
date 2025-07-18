@@ -1,0 +1,1 @@
+A bright-eyed law student or junior legal clerk in Ranlean. He idolizes his grandfather Ivan and believes in the ideals of justice... for now.

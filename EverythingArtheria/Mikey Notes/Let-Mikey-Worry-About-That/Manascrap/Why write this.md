@@ -1,1 +1,0 @@
-I like to be entertained. I'm also a storyteller.
